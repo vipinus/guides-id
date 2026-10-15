@@ -10,7 +10,7 @@ Dengan layanan dan protokol yang sama, kecepatan antarwilayah bisa berbeda berka
 |---|---|---|
 | China Unicom di wilayah utara | Jepang, Korea Selatan | Rute keluar Unicom ke Jepang dan Korea Selatan biasanya paling langsung |
 | China Telecom di wilayah selatan | Asia Tenggara (Singapura), Australia | Rute keluar Telecom ke arah selatan bagus |
-| China Mobile, Great Wall, dan sejenisnya | Titik masuk Tiongkok | Klien hanya tersambung ke alamat di dalam Tiongkok, dan bagian lintas negara kami yang urus, jadi tidak terpengaruh gangguan lintas negara |
+| China Mobile, Great Wall, dan sejenisnya | Titik masuk Tiongkok | Biasanya paling stabil di jaringan seperti ini |
 | Data seluler | Berbeda per operator; uji terpisah dari internet rumah | Di HP yang sama, wilayah terbaik lewat Wi‑Fi dan lewat data seluler sering berbeda |
 
 Daftar wilayah LeoTun memakai **lampu merah, kuning, dan hijau** untuk menunjukkan beban tiap wilayah saat ini; di antara beberapa titik masuk Jepang, pilih yang lampunya hijau.

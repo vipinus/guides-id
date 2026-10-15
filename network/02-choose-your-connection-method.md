@@ -18,7 +18,7 @@ Satu akun LeoTun punya enam cara koneksi: Privat (Tailscale), Cisco (AnyConnect)
 - Internet rumah yang sering putus, sinyal Wi‑Fi lemah: Proxy Web. Bekerja per permintaan tanpa koneksi yang terus terbuka, jadi memang tidak ada koneksi yang bisa putus.
 - Internet di kompleks perumahan lama, data seluler, packet loss tinggi: Hiddify. Protokolnya dirancang tahan packet loss dan memberi kecepatan terbaik di jaringan seperti itu.
 - Komputer sudah tersambung ke VPN kantor: Proxy Web. Dua VPN untuk seluruh perangkat yang berjalan bersamaan akan berebut pengaturan jaringan; Proxy Web hanya menangani browser, jadi keduanya tidak saling mengganggu.
-- Internet China Mobile, Great Wall, dan lainnya, atau jalur lintas negara yang selalu tidak stabil: cara apa pun, dengan memilih titik masuk wilayah Tiongkok. Klien hanya tersambung ke alamat di dalam Tiongkok dan bagian lintas negara kami yang urus, jadi tidak terpengaruh gangguan lintas negara.
+- Internet China Mobile, Great Wall, dan lainnya, atau jalur lintas negara yang selalu tidak stabil: cara apa pun, dengan memilih titik masuk wilayah Tiongkok. Biasanya ini pilihan paling stabil di jaringan seperti ini.
 
 ## Menurut tujuan: apa yang ingin Anda lakukan
 
