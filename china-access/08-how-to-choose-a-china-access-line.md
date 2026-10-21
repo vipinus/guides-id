@@ -26,7 +26,7 @@ Masalahnya bukan "gratis", tapi struktur biayanya. Bandwidth exit di Tiongkok da
 
 Ekstensi browser "ke Tiongkok" yang gratis punya satu titik buta lagi: ekstensi itu hanya mem-proxy permintaan web dari browser, sedangkan pemutar video, aplikasi, dan DNS sistem tidak lewat situ, itulah sebabnya "halaman web terbuka tapi videonya tidak mau diputar" begitu sering terjadi.
 
-Untuk sesekali mencari sesuatu, yang gratis sudah cukup. Untuk mengikuti serial, mendengarkan musik, dan internet banking, waktu yang dihemat jalur berbayar yang stabil jauh lebih berharga daripada biaya langganannya. Klaim dulu uji coba 24 jam, coba sekali di jam sibuk malam, lalu putuskan.
+Untuk sesekali mencari sesuatu, yang gratis sudah cukup. Untuk mengikuti serial, mendengarkan musik, dan internet banking, waktu yang dihemat jalur berbayar yang stabil jauh lebih berharga daripada biaya langganannya. Klaim dulu uji coba 4 jam, coba sekali di jam sibuk malam, lalu putuskan.
 
 ## Cara mahasiswa di luar negeri, pelancong, dan keluarga masing-masing mengaturnya
 
@@ -53,4 +53,4 @@ Untuk sesekali mencari sesuatu, yang gratis sudah cukup. Untuk mengikuti serial,
 **Bisakah memakai Clash?** Bisa. LeoTun menyediakan langganan sing-box, langganan Clash, dan link berbagi hysteria2. Dengan Clash Meta, Clash Verge, FlClash, Stash, dan sejenisnya, klik tombol "langganan Clash" lalu tempel URL-nya ke daftar langganan klien; tidak perlu konverter langganan, dan jangan pakai link berbagi. Clash asli dan Clash for Windows tidak bisa dipakai, karena intinya tidak punya hysteria2. Langganan ini secara bawaan mengirim semua lalu lintas kecuali jaringan lokal Anda lewat node, jadi tidak ada yang perlu diubah untuk video Tiongkok; kalau Anda menambah aturan sendiri, jangan atur domain Tiongkok ke "direct" (langsung).
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku

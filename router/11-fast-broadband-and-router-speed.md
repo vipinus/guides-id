@@ -39,15 +39,15 @@ Sambungkan TV dan komputer desktop dengan kabel kalau memungkinkan. Wi-Fi di ged
 
 ## Cara mengetahuinya sebelum membeli
 
-Daftar dan ambil uji coba gratis 24 jam, tanpa kartu kredit. Sambungkan pada jam Anda paling sering memakai internet, misalnya malam hari, lalu tonton video YouTube dalam kualitas HD. Yang Anda lihat di HP atau laptop mendekati apa yang akan diberikan router. Putuskan soal router setelah itu.
+Daftar dan ambil uji coba gratis 4 jam, tanpa kartu kredit. Sambungkan pada jam Anda paling sering memakai internet, misalnya malam hari, lalu tonton video YouTube dalam kualitas HD. Yang Anda lihat di HP atau laptop mendekati apa yang akan diberikan router. Putuskan soal router setelah itu.
 
 ## Tanya jawab
 
-**Kenapa tidak langsung bilang berapa megabit?** Karena angkanya berbeda untuk setiap orang dan setiap jam. Kami menjamin YouTube lancar, bahkan di jam sibuk malam, asalkan internet rumah Anda bagus: China Unicom di utara atau China Telecom di selatan. Internet bersama di kompleks perumahan (di Tiongkok disebut "xiaoqu kuandai") adalah pengecualian. Mengambil uji coba gratis 24 jam dan mencobanya sendiri adalah tes yang paling akurat.
+**Kenapa tidak langsung bilang berapa megabit?** Karena angkanya berbeda untuk setiap orang dan setiap jam. Kami menjamin YouTube lancar, bahkan di jam sibuk malam, asalkan internet rumah Anda bagus: China Unicom di utara atau China Telecom di selatan. Internet bersama di kompleks perumahan (di Tiongkok disebut "xiaoqu kuandai") adalah pengecualian. Mengambil uji coba gratis 4 jam dan mencobanya sendiri adalah tes yang paling akurat.
 
 **Situs speed test menunjukkan angka rendah, tapi video lancar?** Itu wajar. Server speed test juga punya saat sibuk dan sepi, dan dua tes yang berjarak satu menit bisa berbeda dua kali lipat. Nilailah dari hal yang sebenarnya ingin Anda lakukan.
 
 **Apakah router yang lebih mahal membuatnya lebih cepat?** Hanya kalau routernya yang jadi titik sempit, misalnya model mini di internet yang cepat. Kalau titik sempitnya ruas lintas negara, router baru tidak membantu, sedangkan ganti wilayah membantu.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku

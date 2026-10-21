@@ -29,4 +29,4 @@ Mereka tidak perlu tahu kata "VPN". iQIYI dan Yangshipin (CCTV) di TV terbuka se
 Dalam mode split routing, situs bank lokal, layanan streaming lokal, dan printer tetap tersambung langsung. Hanya domain Tiongkok yang ada di daftar yang lewat jalur ke Tiongkok. Inilah juga alasan split routing lebih disarankan daripada Global.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, berlaku jangka panjang

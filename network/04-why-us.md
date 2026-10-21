@@ -19,15 +19,15 @@ Sebaliknya, kalau Anda berada di luar Tiongkok dan perlu mengakses layanan di Ti
 
 - Kelebihan penyedia jalur proxy: murah, node-nya banyak, langsung bisa dipakai begitu link langganan ditempel, dan orang yang suka mengutak-atik klien menikmati kebebasannya.
 - Kekurangan penyedia jalur proxy: kebanyakan perorangan atau tim kecil yang menyewa mesin di luar negeri lalu menjual ulang kuota, tanpa titik pendaratan sendiri di Tiongkok, dan kualitas exit-nya naik turun mengikuti jalur yang disewa; kabur membawa uang, ganti nama, dan tutup itu hal biasa, dan membayar setahun bukan jaminan bisa memakai setahun penuh; urusan klien hampir seluruhnya diserahkan ke pengguna, dan tidak ada yang bertanggung jawab kalau ada masalah.
-- Yang kami lakukan: mesinnya milik kami sendiri, dan exit Tiongkok adalah mesin kami sendiri yang terdaftar atas nama asli di penyedia cloud Tiongkok daratan; satu akun punya enam cara koneksi, dan solusi router untuk semua perangkat serta grup dukungan 24 jam tidak dimiliki penyedia jalur proxy; kami beroperasi sejak 2006 sampai sekarang, dan akun, masa aktif, serta harga tidak berubah sebelum maupun sesudah ganti nama.
-- Harga kami: paket Pribadi $4 per bulan, paket Keluarga $8, paket Perusahaan $16, sudah mencakup mesin milik sendiri, enam cara koneksi, dan grup dukungan 24 jam; Anda hanya memilih wilayah, dan di balik tiap wilayah sistem memilih mesin yang paling sepi, jadi tidak perlu tes kecepatan dan memilih node sendiri.
+- Yang kami lakukan: mesinnya milik kami sendiri, dan exit Tiongkok adalah mesin kami sendiri yang terdaftar atas nama asli di penyedia cloud Tiongkok daratan; satu akun punya enam cara koneksi, dan solusi router untuk semua perangkat serta grup dukungan 4 jam tidak dimiliki penyedia jalur proxy; kami beroperasi sejak 2006 sampai sekarang, dan akun, masa aktif, serta harga tidak berubah sebelum maupun sesudah ganti nama.
+- Harga kami: paket Pribadi $5 per bulan, paket Keluarga $8, paket Perusahaan $16, sudah mencakup mesin milik sendiri, enam cara koneksi, dan grup dukungan 4 jam; Anda hanya memilih wilayah, dan di balik tiap wilayah sistem memilih mesin yang paling sepi, jadi tidak perlu tes kecepatan dan memilih node sendiri.
 
 ## Dibandingkan software gratis
 
 - Kelebihan yang gratis: tidak bayar, dan cukup untuk sesekali mencari sesuatu.
 - Kekurangan yang gratis: bandwidth exit di Tiongkok daratan dibayar menurut pemakaian, jadi layanan gratis hanya bisa bertahan dengan menjejalkan pengguna, membatasi kecepatan, atau menjual data; yang berbentuk ekstensi browser hanya mem-proxy permintaan web, sedangkan video, aplikasi, dan DNS sistem tidak lewat situ; installer yang asal-usulnya tidak jelas sudah merupakan risiko tersendiri, lihat "Cara mengenali aplikasi VPN yang berisiko".
-- Yang kami lakukan: uji coba gratis 24 jam tanpa kartu kredit, untuk mengecek barangnya; bayar per hari (kredit) untuk pengguna sesekali; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 20 hari (hitungan paket Pribadi), sumber waktu gratis jangka panjang.
-- Cara kami mengaturnya: waktu gratis datang dari uji coba 24 jam dan hadiah undangan; untuk pemakaian jangka panjang Anda membayar per bulan, per tahun, atau per hari.
+- Yang kami lakukan: uji coba gratis 4 jam tanpa kartu kredit, untuk mengecek barangnya; bayar per hari (kredit) untuk pengguna sesekali; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 20 hari (hitungan paket Pribadi), sumber waktu gratis jangka panjang.
+- Cara kami mengaturnya: waktu gratis datang dari uji coba 4 jam dan hadiah undangan; untuk pemakaian jangka panjang Anda membayar per bulan, per tahun, atau per hari.
 
 ## Enam cara koneksi, satu akun
 
@@ -55,9 +55,9 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 
 **Kenapa tidak menyediakan ratusan node seperti penyedia jalur proxy?** Node yang lebih banyak tidak berarti lebih stabil. Di balik setiap wilayah kami ada beberapa mesin, dan saat tersambung sistem memilih yang paling sepi, jadi Anda tidak perlu menjalankan tes kecepatan dan memilih node sendiri; kalau sebuah alamat diblokir, alamat itu diganti otomatis, dan alamat di klien Anda tidak perlu diubah.
 
-**Bisakah harganya lebih murah lagi?** Paket Pribadi $4 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,32 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 20 hari tambahan (hitungan paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 24 jam.
+**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,32 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 20 hari tambahan (hitungan paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
 
-**Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 24 jam, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
+**Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 4 jam, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
 
 
 ## Bacaan lanjutan
@@ -70,4 +70,4 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku

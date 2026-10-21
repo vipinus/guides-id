@@ -52,4 +52,4 @@ Dengan "routing otomatis" menyala, layanan luar negeri seperti Dropbox lewat jal
 **Bisakah tanpa Hiddify?** Bisa. Cisco, Privat, dan OpenVPN juga mengambil alih seluruh komputer, dan software-nya juga diatur ke "No proxy". Kelebihan Hiddify adalah routing bawaan dan kecepatan lebih baik di jaringan dengan packet loss tinggi.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku

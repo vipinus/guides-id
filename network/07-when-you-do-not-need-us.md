@@ -51,4 +51,4 @@ Tanda-tanda khasnya adalah pesan "Konten ini tidak tersedia di wilayah Anda", ha
 Pakai uji coba gratis dulu untuk mencoba satu per satu layanan yang ingin Anda pakai. **Kalau masalahnya terselesaikan, silakan lanjut; untuk kebutuhan lain, hubungi dukungan**, dan kami akan membantu melihat apakah ada cara yang cocok.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu

@@ -22,7 +22,7 @@ Kerabat atau teman menginap beberapa hari, tablet dan laptop tambahan saat dinas
 
 ## Berapa biaya naik paket sementara: hitungannya
 
-Harga ketiga paket berbanding 1 : 2 : 4 (Pribadi $4, Keluarga $8, Perusahaan $16 per bulan), jadi saat ganti paket sisa masa aktif dikonversi dengan rasio ini dan tidak ada yang dirugikan. Contoh: sisa 30 hari di paket Keluarga, pindah sementara ke paket Perusahaan menjadi 15 hari; setelah dipakai 3 hari tersisa 12 hari, dan kembali ke paket Keluarga menjadi 24 hari. Dibandingkan tetap di paket Keluarga sepanjang waktu (30 − 3 = 27 hari), selisihnya 3 hari; dengan kata lain, 3 hari itu ditagih dengan harga paket Perusahaan, dan yang Anda bayar lebih hanya selisih untuk 3 hari tersebut.
+Harga ketiga paket berbanding 1 : 2 : 4 (Pribadi $4, Keluarga $8, Perusahaan $20 per bulan), jadi saat ganti paket sisa masa aktif dikonversi dengan rasio ini dan tidak ada yang dirugikan. Contoh: sisa 30 hari di paket Keluarga, pindah sementara ke paket Perusahaan menjadi 15 hari; setelah dipakai 3 hari tersisa 12 hari, dan kembali ke paket Keluarga menjadi 24 hari. Dibandingkan tetap di paket Keluarga sepanjang waktu (30 − 3 = 27 hari), selisihnya 3 hari; dengan kata lain, 3 hari itu ditagih dengan harga paket Perusahaan, dan yang Anda bayar lebih hanya selisih untuk 3 hari tersebut.
 
 Dua batasan: kalau ada pembayaran yang dimulai dalam 30 menit terakhir tetapi belum selesai, penggantian paket tidak akan berhasil; selesaikan atau batalkan pembayaran itu dan tunggu setengah jam sebelum mengganti. Saat kembali ke paket yang lebih rendah, kalau perangkat yang online masih melebihi batas paket itu, situs akan meminta Anda memutus perangkat yang berlebih dulu.
 
@@ -56,4 +56,4 @@ Kalau perangkat di rumah makin banyak dan anggota keluarga masing-masing butuh d
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-09) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-09) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-09) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-09) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu

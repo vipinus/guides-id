@@ -29,7 +29,7 @@ Kode verifikasi SMS yang tidak pernah sampai tidak ada hubungannya dengan jalur;
 
 ## Tanya jawab
 
-**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Klaim uji coba gratis 24 jam, atau isi kredit dan bayar per hari: paket Pribadi memakai 1 kredit per hari, sekitar 0,32 dolar AS per hari, sangat pas untuk beberapa hari.
+**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Klaim uji coba gratis 4 jam, atau isi kredit dan bayar per hari: paket Pribadi memakai 1 kredit per hari, sekitar 0,32 dolar AS per hari, sangat pas untuk beberapa hari.
 
 **Bisakah HP dan laptop tersambung bersamaan?** Bisa. Tergantung paketnya, satu akun bisa online di 2 / 4 / 8 perangkat bersamaan (Pribadi / Keluarga / Perusahaan), dan paket Pribadi pas untuk satu HP ditambah satu laptop.
 
@@ -47,4 +47,4 @@ Kode verifikasi SMS yang tidak pernah sampai tidak ada hubungannya dengan jalur;
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-12) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-12) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-12) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-12) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku

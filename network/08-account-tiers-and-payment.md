@@ -6,7 +6,7 @@ Akun LeoTun punya tiga paket: Pribadi, Keluarga, dan Perusahaan. Bedanya hanya p
 
 | | Pribadi | Keluarga | Perusahaan |
 |---|---|---|---|
-| Harga per bulan | $4 | $8 | $16 |
+| Harga per bulan | $5 | $10 | $20 |
 | Kelipatan harga | 1x | 2x | 4x |
 | Perangkat online bersamaan | 2 | 4 | 8 |
 | Wilayah / kuota / cara koneksi | Semua / tanpa batas / semua | Sama | Sama |
@@ -47,14 +47,14 @@ Ketiga paket memakai kurva diskon yang sama: hemat 5% → hemat 10% → hemat 20
 | Perusahaan | Mulai 3 bulan | Mulai 6 bulan | Mulai 12 bulan |
 
 - Kalau membeli per bulan, maksimal 12 bulan sekaligus; kalau per tahun, maksimal 4 tahun sekaligus. Membeli per bulan juga mendapat diskon yang sama begitu mencapai batasnya, jadi tidak harus memilih "per tahun".
-- Beberapa angka nyata: Pribadi 12 bulan $45,60, 4 tahun $153,60; Keluarga 6 bulan $45,60, 2 tahun $153,60; Perusahaan 3 bulan $45,60, 1 tahun $153,60.
+- Beberapa angka nyata: Pribadi 12 bulan $57, 4 tahun $192; Keluarga 6 bulan $57, 2 tahun $192; Perusahaan 3 bulan $57, 1 tahun $192.
 - Kalau masa aktif Anda belum habis saat memperpanjang, masa yang dibeli ditambahkan setelah tanggal berakhir semula dan tidak memakan sisa hari.
 
 ## Cara pembayaran
 
 | Cara | Keterangan |
 |---|---|
-| Alipay | Dibayar dalam RMB, dikonversi dari harga dolar AS dengan kurs saat itu |
+| Alipay | Dibayar dalam RMB dengan kurs tetap 1 dolar AS = 7 yuan: per bulan Pribadi ¥35, Keluarga ¥70, Perusahaan ¥140 |
 | PayPal | Dibayar dalam dolar AS; mendukung kartu bank yang diterbitkan di Tiongkok |
 | Kartu kredit | Visa, Mastercard, AMEX |
 | Kredit | Dipotong dari kredit yang sudah Anda isi; bisa dipakai untuk membeli per hari |
@@ -75,17 +75,17 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 - Isi kredit: 25 kredit seharga $8, dan Anda bisa memilih 25–150 kredit sekali isi. Kredit tidak pernah kedaluwarsa.
 - Pemakaian per hari: Pribadi 1 kredit per hari, Keluarga 2 kredit, Perusahaan 4 kredit. Sehari di paket Pribadi sekitar $0,32.
 - Kredit juga bisa dipakai memperpanjang per bulan (dihitung 30 hari) atau per tahun (dihitung 365 hari), tetapi kredit tidak mendapat diskon.
-- Cocok untuk siapa: orang yang hanya memakainya belasan hari per bulan, atau yang hanya butuh beberapa hari sebelum kembali ke Tiongkok. Kalau Anda memakainya setiap hari, langganan bulanan lebih hemat; di paket Pribadi, kalau pemakaian Anda lebih dari 12 hari sebulan, sebaiknya berlangganan bulanan.
+- Cocok untuk siapa: orang yang hanya memakainya belasan hari per bulan, atau yang hanya butuh beberapa hari sebelum kembali ke Tiongkok. Kalau Anda memakainya setiap hari, langganan bulanan lebih hemat; di paket Pribadi, kalau pemakaian Anda lebih dari 15 hari sebulan, sebaiknya berlangganan bulanan.
 
 ## Uji coba gratis dan hadiah undangan: nilainya sama di setiap paket
 
 | | Pribadi | Keluarga | Perusahaan |
 |---|---|---|---|
-| Uji coba gratis | 24 jam | 12 jam | 6 jam |
+| Uji coba gratis | 4 jam | 2 jam | 1 jam |
 | Untuk setiap teman undangan yang melakukan pembayaran pertama (Anda dan teman masing-masing dapat) | +20 hari | +10 hari | +5 hari |
 | Layanan yang termasuk saat membeli router (model 24 bulan) | 24 bulan | 12 bulan | 6 bulan |
 
-- Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun. Akun baru memakai paket Pribadi, jadi biasanya Anda mendapat 24 jam.
+- Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun. Akun baru memakai paket Pribadi, jadi biasanya Anda mendapat 4 jam.
 - Undangan: setelah teman mendaftar lewat link referral Anda dan menyelesaikan pembayaran pertamanya, masa aktif Anda dan teman langsung diperpanjang, tanpa batas jumlah orang. Jumlah hari masing-masing dihitung menurut paket yang sedang dipakai orang itu.
 - Semua angka ini dikonversi berbanding terbalik dengan kelipatan harga, jadi nilai yang Anda dapat sama, paket mana pun yang Anda pakai.
 
@@ -93,7 +93,7 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 - Dalam 24 jam sebelum berakhir, Anda akan menerima email pengingat "Layanan akan segera berakhir".
 - Setelah berakhir, tidak ada cara koneksi yang bisa tersambung; perangkat di jaringan Privat akan offline dalam beberapa menit, dan kode QR Hiddify baru bisa dibuat ulang setelah perpanjangan.
-- Satu atau dua hari setelah berakhir, Anda akan menerima email "Layanan telah berakhir"; bagi yang memenuhi syarat, email itu berisi tombol klaim yang tidak perlu login dan memberi 24 / 12 / 6 jam sesuai paket Anda; link-nya berlaku 7 hari dan hanya bisa diklik sekali.
+- Satu atau dua hari setelah berakhir, Anda akan menerima email "Layanan telah berakhir"; bagi yang memenuhi syarat, email itu berisi tombol klaim yang tidak perlu login dan memberi 4 / 2 / 1 jam sesuai paket Anda; link-nya berlaku 7 hari dan hanya bisa diklik sekali.
 - Layanan langsung pulih setelah perpanjangan; perangkat jaringan Privat masing-masing cukup diklik login sekali lagi, dan pengaturan exit tetap tersimpan.
 
 ## Tanya jawab
@@ -102,7 +102,7 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 **Apakah pengguna perorangan perlu paket Keluarga?** Tidak. Fitur ketiga paket sama, router pun bisa dipakai; 2 perangkat online bersamaan di paket Pribadi cukup untuk satu HP dan satu komputer. Pertimbangkan paket Keluarga hanya kalau Anda punya router di rumah dan juga membawa dua perangkat ke luar.
 
-**Kenapa muncul jumlah dalam RMB saat memakai Alipay?** Harga ditetapkan dalam dolar AS, dan Alipay mengonversinya ke RMB dengan kurs saat pembayaran, jadi jumlah RMB-nya sedikit naik turun mengikuti kurs.
+**Kenapa muncul jumlah dalam RMB saat memakai Alipay?** Harga ditetapkan dalam dolar AS, dan Alipay menghitungnya ke RMB dengan kurs tetap 1 dolar AS = 7 yuan (per bulan Pribadi ¥35, Keluarga ¥70, Perusahaan ¥140; 25 kredit ¥56), jadi jumlah RMB-nya tidak ikut naik turun mengikuti kurs.
 
 **Bisakah kredit dan langganan bulanan dipakai bersamaan?** Bisa. Kredit tersimpan tanpa kedaluwarsa; saat memperpanjang, pilih "Kredit" sebagai cara bayar untuk memotong saldo, atau pilih cara lain untuk membayar tunai seperti biasa.
 
@@ -117,4 +117,4 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 - [FAQ dan menghubungi dukungan](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08)
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 24 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu
