@@ -10,7 +10,7 @@ Cara router menyelesaikan masalah "perangkatnya terlalu banyak, dan sebagian tid
 |---|---|
 | Ada perangkat di rumah yang tidak bisa dipasangi klien, seperti TV box, konsol game, Apple TV, atau speaker pintar | Anda hanya punya satu HP dan satu komputer dan lebih sering bepergian untuk kerja; memasang klien lebih ringkas |
 | Anggota keluarga banyak dan Anda tidak mau mengajari mereka satu per satu | Anda tinggal di asrama atau kos dan tidak memegang kendali atas jaringannya |
-| Ada perangkat yang harus tersambung 4 jam sehari (NAS, unggahan kamera) | Router utama Anda adalah modem yang dikunci operator dan tidak bisa ditambah router kedua; pakai router portabel sebagai jalan tengah |
+| Ada perangkat yang harus tersambung 24 jam sehari (NAS, unggahan kamera) | Router utama Anda adalah modem yang dikunci operator dan tidak bisa ditambah router kedua; pakai router portabel sebagai jalan tengah |
 | Kantor di Tiongkok atau satu keluarga yang rutin mengakses layanan luar negeri dari Tiongkok, dengan split routing di router dan perangkat tidak perlu tahu apa-apa | |
 
 ## Flash firmware sendiri atau beli unit siap pakai
@@ -68,4 +68,4 @@ Kapan tidak memilihnya: untuk rumah besar, banyak perangkat, atau internet di at
 **Apakah firmware-nya punya pintu belakang?** Firmware dikompilasi dari OpenWrt, hanya ditambah komponen yang menyambung ke VPN dan aturan split routing; VPN hanya mencatat durasi koneksi dan total kuota untuk penagihan, dan tidak mencatat apa yang Anda kunjungi.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku

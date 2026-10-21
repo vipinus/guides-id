@@ -2,7 +2,7 @@
 
 > Versi situs web (lebih lengkap): https://www.leotun.com/id/guides/ai-support?utm_source=github&utm_content=troubleshooting-10
 
-Agen dukungan AI "SpongeBob" menjawab 4 jam sehari di tiga grup: Telegram, QQ, dan Discord (link-nya ada di [05](05-how-to-reach-us.md)). Tepat atau tidaknya jawaban terutama tergantung pada **apakah pesan pertama Anda menjelaskan situasinya dengan lengkap**. Kalau lengkap, Anda langsung mendapat langkah-langkahnya; kalau Anda hanya bilang "tidak bisa tersambung", yang bisa dilakukannya hanyalah balik bertanya. **Kalau ada pesan error, langsung kirim tangkapan layar. Anda boleh bertanya dalam bahasa apa pun.**
+Agen dukungan AI "SpongeBob" menjawab 24 jam sehari di tiga grup: Telegram, QQ, dan Discord (link-nya ada di [05](05-how-to-reach-us.md)). Tepat atau tidaknya jawaban terutama tergantung pada **apakah pesan pertama Anda menjelaskan situasinya dengan lengkap**. Kalau lengkap, Anda langsung mendapat langkah-langkahnya; kalau Anda hanya bilang "tidak bisa tersambung", yang bisa dilakukannya hanyalah balik bertanya. **Kalau ada pesan error, langsung kirim tangkapan layar. Anda boleh bertanya dalam bahasa apa pun.**
 
 ## Sebutkan keempat hal ini di pesan pertama
 
@@ -51,4 +51,4 @@ Alamat koneksi VPN diambil dari situs web: setelah login, klik bendera wilayah d
 - Dukungan tidak akan pernah mengirim pesan pribadi untuk meminta kata sandi, kode verifikasi, atau pembayaran, dan tidak akan pernah atas inisiatif sendiri meminta Anda memasang software remote control.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku

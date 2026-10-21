@@ -17,7 +17,7 @@ Akun LeoTun punya tiga paket: Pribadi, Keluarga, dan Perusahaan. Bedanya hanya p
 
 ## Akun baru, dan memilih paket saat membeli
 
-- Akun yang baru didaftarkan otomatis memakai paket Pribadi, dan uji coba gratis serta hadiah undangan diberikan menurut angka paket Pribadi.
+- Akun yang baru didaftarkan otomatis memakai paket Pribadi, dan uji coba gratis diberikan menurut durasi paket Pribadi.
 - Dialog perpanjangan punya pilihan "Paket" yang otomatis berisi paket Anda saat ini; kartu harga mana pun yang Anda klik di beranda, dialog akan memilihkan paket itu, dan Anda tetap bisa mengubahnya sesudahnya.
 - Kalau Anda memilih paket lain, dialog akan menampilkan "Setelah pembayaran selesai, akun Anda otomatis beralih ke paket tersebut, dan sisa masa aktif dikonversi senilai". Harga, diskon, dan jumlah kredit semuanya dihitung langsung untuk paket yang Anda pilih; angka yang Anda lihat itulah yang ditagih.
 - Anda juga bisa ganti paket tanpa membeli apa pun: klik nama pengguna Anda untuk berganti paket.
@@ -77,17 +77,17 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 - Kredit juga bisa dipakai memperpanjang per bulan (dihitung 30 hari) atau per tahun (dihitung 365 hari), tetapi kredit tidak mendapat diskon.
 - Cocok untuk siapa: orang yang hanya memakainya belasan hari per bulan, atau yang hanya butuh beberapa hari sebelum kembali ke Tiongkok. Kalau Anda memakainya setiap hari, langganan bulanan lebih hemat; di paket Pribadi, kalau pemakaian Anda lebih dari 15 hari sebulan, sebaiknya berlangganan bulanan.
 
-## Uji coba gratis dan hadiah undangan: nilainya sama di setiap paket
+## Uji coba gratis dan hadiah undangan di setiap paket
 
 | | Pribadi | Keluarga | Perusahaan |
 |---|---|---|---|
 | Uji coba gratis | 4 jam | 2 jam | 1 jam |
-| Untuk setiap teman undangan yang melakukan pembayaran pertama (Anda dan teman masing-masing dapat) | +20 hari | +10 hari | +5 hari |
+| Untuk setiap teman undangan yang melakukan pembayaran pertama (Anda dan teman masing-masing dapat) | 15 kredit | 15 kredit | 15 kredit |
 | Layanan yang termasuk saat membeli router (model 24 bulan) | 24 bulan | 12 bulan | 6 bulan |
 
 - Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun. Akun baru memakai paket Pribadi, jadi biasanya Anda mendapat 4 jam.
-- Undangan: setelah teman mendaftar lewat link referral Anda dan menyelesaikan pembayaran pertamanya, masa aktif Anda dan teman langsung diperpanjang, tanpa batas jumlah orang. Jumlah hari masing-masing dihitung menurut paket yang sedang dipakai orang itu.
-- Semua angka ini dikonversi berbanding terbalik dengan kelipatan harga, jadi nilai yang Anda dapat sama, paket mana pun yang Anda pakai.
+- Undangan: setelah teman mendaftar lewat link referral Anda dan menyelesaikan pembayaran pertamanya, Anda dan teman masing-masing mendapat 15 kredit yang langsung masuk ke saldo kredit, sama di semua paket dan tanpa batas jumlah orang. Paket Pribadi memakai 1 kredit per hari, jadi 15 kredit kira-kira 15 hari dan bisa dipakai untuk memperpanjang per hari.
+- Uji coba gratis dan layanan bawaan pembelian router dikonversi berbanding terbalik dengan kelipatan harga, jadi nilainya sama di paket mana pun; hadiah undangan berupa kredit dan sama di ketiga paket.
 
 ## Setelah masa aktif habis
 
@@ -117,4 +117,4 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 - [FAQ dan menghubungi dukungan](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08)
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 20 hari paket Pribadi, promo tanpa batas waktu
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 15 kredit (sekitar 15 hari paket Pribadi), promo tanpa batas waktu

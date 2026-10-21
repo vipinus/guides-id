@@ -78,4 +78,4 @@ Kalau sebuah situs tidak terbuka dengan split routing, pindah sementara ke "Glob
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku

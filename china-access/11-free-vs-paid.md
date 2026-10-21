@@ -28,7 +28,7 @@ Paket Pribadi LeoTun 5 dolar AS sebulan dan sudah termasuk 24 wilayah, 2 perangk
 
 Kalau tidak ingin membeli per bulan, ada dua cara: klaim dulu uji coba gratis 4 jam (tanpa kartu kredit, sekali per akun) dan coba sekali di jam sibuk malam; atau bayar per hari. Setelah mengisi kredit, paket Pribadi memakai 1 kredit sehari, dan 25 kredit seharga 8 dolar AS, jadi sekitar 0,32 dolar AS sehari; membeli beberapa hari saja sebelum perjalanan ke Tiongkok sangat pas.
 
-Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, masa aktif Anda dan teman masing-masing diperpanjang 20 hari (hitungan paket Pribadi), tanpa batas jumlah orang. Ini sumber waktu gratis jangka panjang.
+Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Ini sumber waktu gratis jangka panjang.
 
 ## Cara mengecek barangnya sebelum membayar
 
@@ -60,4 +60,4 @@ Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, masa akt
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku

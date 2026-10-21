@@ -103,4 +103,4 @@ Perbedaan ketiga tombol, cara mengimpor ke Clash dan klien lain, serta apakah la
 - [Kalau iOS tidak mengizinkan Anda memasang aplikasi](https://www.leotun.com/id/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-09) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-09) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-09) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-09) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku

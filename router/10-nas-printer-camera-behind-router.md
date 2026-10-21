@@ -45,4 +45,4 @@ Sambungkan ke Wi-Fi router di atasnya atau modem, terpisah dari router ini. Dua 
 **Bisakah satu perangkat selalu di luar VPN?** Bisa, sambungkan ke router di atasnya atau ke modem. Halaman admin juga bisa mengalihkan seluruh router ke mode "Direct" (langsung), tetapi itu berlaku untuk semua orang sekaligus.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 20 hari paket Pribadi, berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), berlaku jangka panjang
