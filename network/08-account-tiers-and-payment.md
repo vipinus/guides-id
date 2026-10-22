@@ -72,10 +72,10 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 ## Kredit dan membayar per hari
 
-- Isi kredit: 25 kredit seharga $8, dan Anda bisa memilih 25–150 kredit sekali isi. Kredit tidak pernah kedaluwarsa.
-- Pemakaian per hari: Pribadi 1 kredit per hari, Keluarga 2 kredit, Perusahaan 4 kredit. Sehari di paket Pribadi sekitar $0,32.
+- Isi kredit: 25 kredit seharga $10, dan Anda bisa memilih 25–150 kredit sekali isi. Kredit tidak pernah kedaluwarsa.
+- Pemakaian per hari: Pribadi 1 kredit per hari, Keluarga 2 kredit, Perusahaan 4 kredit. Sehari di paket Pribadi sekitar $0,4.
 - Kredit juga bisa dipakai memperpanjang per bulan (dihitung 30 hari) atau per tahun (dihitung 365 hari), tetapi kredit tidak mendapat diskon.
-- Cocok untuk siapa: orang yang hanya memakainya belasan hari per bulan, atau yang hanya butuh beberapa hari sebelum kembali ke Tiongkok. Kalau Anda memakainya setiap hari, langganan bulanan lebih hemat; di paket Pribadi, kalau pemakaian Anda lebih dari 15 hari sebulan, sebaiknya berlangganan bulanan.
+- Cocok untuk siapa: orang yang hanya memakainya belasan hari per bulan, atau yang hanya butuh beberapa hari sebelum kembali ke Tiongkok. Kalau Anda memakainya setiap hari, langganan bulanan lebih hemat; di paket Pribadi, kalau pemakaian Anda lebih dari 12 hari sebulan, sebaiknya berlangganan bulanan.
 
 ## Uji coba gratis dan hadiah undangan di setiap paket
 
@@ -102,7 +102,7 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 **Apakah pengguna perorangan perlu paket Keluarga?** Tidak. Fitur ketiga paket sama, router pun bisa dipakai; 2 perangkat online bersamaan di paket Pribadi cukup untuk satu HP dan satu komputer. Pertimbangkan paket Keluarga hanya kalau Anda punya router di rumah dan juga membawa dua perangkat ke luar.
 
-**Kenapa muncul jumlah dalam RMB saat memakai Alipay?** Harga ditetapkan dalam dolar AS, dan Alipay menghitungnya ke RMB dengan kurs tetap 1 dolar AS = 7 yuan (per bulan Pribadi ¥35, Keluarga ¥70, Perusahaan ¥140; 25 kredit ¥56), jadi jumlah RMB-nya tidak ikut naik turun mengikuti kurs.
+**Kenapa muncul jumlah dalam RMB saat memakai Alipay?** Harga ditetapkan dalam dolar AS, dan Alipay menghitungnya ke RMB dengan kurs tetap 1 dolar AS = 7 yuan (per bulan Pribadi ¥35, Keluarga ¥70, Perusahaan ¥140; 25 kredit ¥70), jadi jumlah RMB-nya tidak ikut naik turun mengikuti kurs.
 
 **Bisakah kredit dan langganan bulanan dipakai bersamaan?** Bisa. Kredit tersimpan tanpa kedaluwarsa; saat memperpanjang, pilih "Kredit" sebagai cara bayar untuk memotong saldo, atau pilih cara lain untuk membayar tunai seperti biasa.
 

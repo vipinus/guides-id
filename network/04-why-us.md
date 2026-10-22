@@ -20,7 +20,7 @@ Sebaliknya, kalau Anda berada di luar Tiongkok dan perlu mengakses layanan di Ti
 - Kelebihan penyedia jalur proxy: murah, node-nya banyak, langsung bisa dipakai begitu link langganan ditempel, dan orang yang suka mengutak-atik klien menikmati kebebasannya.
 - Kekurangan penyedia jalur proxy: kebanyakan perorangan atau tim kecil yang menyewa mesin di luar negeri lalu menjual ulang kuota, tanpa titik pendaratan sendiri di Tiongkok, dan kualitas exit-nya naik turun mengikuti jalur yang disewa; kabur membawa uang, ganti nama, dan tutup itu hal biasa, dan membayar setahun bukan jaminan bisa memakai setahun penuh; urusan klien hampir seluruhnya diserahkan ke pengguna, dan tidak ada yang bertanggung jawab kalau ada masalah.
 - Yang kami lakukan: mesinnya milik kami sendiri, dan exit Tiongkok adalah mesin kami sendiri yang terdaftar atas nama asli di penyedia cloud Tiongkok daratan; satu akun punya enam cara koneksi, dan solusi router untuk semua perangkat serta grup dukungan 24 jam tidak dimiliki penyedia jalur proxy; kami beroperasi sejak 2006 sampai sekarang, dan akun, masa aktif, serta harga tidak berubah sebelum maupun sesudah ganti nama.
-- Harga kami: paket Pribadi $5 per bulan, paket Keluarga $8, paket Perusahaan $16, sudah mencakup mesin milik sendiri, enam cara koneksi, dan grup dukungan 24 jam; Anda hanya memilih wilayah, dan di balik tiap wilayah sistem memilih mesin yang paling sepi, jadi tidak perlu tes kecepatan dan memilih node sendiri.
+- Harga kami: paket Pribadi $5 per bulan, paket Keluarga $10, paket Perusahaan $20, sudah mencakup mesin milik sendiri, enam cara koneksi, dan grup dukungan 24 jam; Anda hanya memilih wilayah, dan di balik tiap wilayah sistem memilih mesin yang paling sepi, jadi tidak perlu tes kecepatan dan memilih node sendiri.
 
 ## Dibandingkan software gratis
 
@@ -55,7 +55,7 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 
 **Kenapa tidak menyediakan ratusan node seperti penyedia jalur proxy?** Node yang lebih banyak tidak berarti lebih stabil. Di balik setiap wilayah kami ada beberapa mesin, dan saat tersambung sistem memilih yang paling sepi, jadi Anda tidak perlu menjalankan tes kecepatan dan memilih node sendiri; kalau sebuah alamat diblokir, alamat itu diganti otomatis, dan alamat di klien Anda tidak perlu diubah.
 
-**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,32 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
+**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,4 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
 
 **Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 4 jam, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
 

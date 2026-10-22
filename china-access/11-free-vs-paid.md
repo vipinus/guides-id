@@ -26,7 +26,7 @@ Tes sederhana: kalau Anda akan kesal saat koneksinya putus, sudah saatnya membay
 
 Paket Pribadi LeoTun 5 dolar AS sebulan dan sudah termasuk 24 wilayah, 2 perangkat online bersamaan, dan semua cara koneksi (AnyConnect / OpenVPN / Hiddify / Proxy Web), serta bisa dipakai dengan router. Paket Keluarga dan Perusahaan masing-masing 2 kali dan 4 kali harga paket Pribadi. Wilayah, jalur, dan cara koneksi sama persis di ketiga paket, dan satu-satunya bedanya jumlah perangkat online bersamaan (4 dan 8).
 
-Kalau tidak ingin membeli per bulan, ada dua cara: klaim dulu uji coba gratis 4 jam (tanpa kartu kredit, sekali per akun) dan coba sekali di jam sibuk malam; atau bayar per hari. Setelah mengisi kredit, paket Pribadi memakai 1 kredit sehari, dan 25 kredit seharga 8 dolar AS, jadi sekitar 0,32 dolar AS sehari; membeli beberapa hari saja sebelum perjalanan ke Tiongkok sangat pas.
+Kalau tidak ingin membeli per bulan, ada dua cara: klaim dulu uji coba gratis 4 jam (tanpa kartu kredit, sekali per akun) dan coba sekali di jam sibuk malam; atau bayar per hari. Setelah mengisi kredit, paket Pribadi memakai 1 kredit sehari, dan 25 kredit seharga 10 dolar AS, jadi sekitar 0,4 dolar AS sehari; membeli beberapa hari saja sebelum perjalanan ke Tiongkok sangat pas.
 
 Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Ini sumber waktu gratis jangka panjang.
 
