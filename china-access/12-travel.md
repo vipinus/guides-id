@@ -29,7 +29,7 @@ Kode verifikasi SMS yang tidak pernah sampai tidak ada hubungannya dengan jalur;
 
 ## Tanya jawab
 
-**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Klaim uji coba gratis 4 jam, atau isi kredit dan bayar per hari: paket Pribadi memakai 1 kredit per hari, sekitar 0,4 dolar AS per hari, sangat pas untuk beberapa hari.
+**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Klaim uji coba gratis 4 jam, atau isi kredit dan bayar per hari: paket Pribadi memakai 1 kredit per hari, sekitar 0,36 dolar AS per hari, sangat pas untuk beberapa hari.
 
 **Bisakah HP dan laptop tersambung bersamaan?** Bisa. Tergantung paketnya, satu akun bisa online di 2 / 4 / 8 perangkat bersamaan (Pribadi / Keluarga / Perusahaan), dan paket Pribadi pas untuk satu HP ditambah satu laptop.
 

@@ -55,7 +55,7 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 
 **Kenapa tidak menyediakan ratusan node seperti penyedia jalur proxy?** Node yang lebih banyak tidak berarti lebih stabil. Di balik setiap wilayah kami ada beberapa mesin, dan saat tersambung sistem memilih yang paling sepi, jadi Anda tidak perlu menjalankan tes kecepatan dan memilih node sendiri; kalau sebuah alamat diblokir, alamat itu diganti otomatis, dan alamat di klien Anda tidak perlu diubah.
 
-**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,4 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
+**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,36 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
 
 **Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 4 jam, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
 
