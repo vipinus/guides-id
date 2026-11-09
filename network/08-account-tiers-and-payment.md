@@ -83,7 +83,7 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 |---|---|---|---|
 | Uji coba gratis | 30 menit | 30 menit | 30 menit |
 | Untuk setiap teman undangan yang melakukan pembayaran pertama (Anda dan teman masing-masing dapat) | 15 kredit | 15 kredit | 15 kredit |
-| Layanan yang termasuk saat membeli router (model 3 tahun) | 3 tahun | 18 bulan | 9 bulan |
+| Layanan yang termasuk saat membeli router (model 2 tahun) | 2 tahun | 12 bulan | 6 bulan |
 
 - Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun; 30 menit di semua paket.
 - Undangan: setelah teman mendaftar lewat link referral Anda dan menyelesaikan pembayaran pertamanya, Anda dan teman masing-masing mendapat 15 kredit yang langsung masuk ke saldo kredit, sama di semua paket dan tanpa batas jumlah orang. Paket Pribadi memakai 1 kredit per hari, jadi 15 kredit kira-kira 15 hari dan bisa dipakai untuk memperpanjang per hari.
