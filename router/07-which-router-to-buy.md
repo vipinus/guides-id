@@ -26,7 +26,7 @@ Dengan cara mana pun, firmware memperbarui komponennya sendiri tanpa perlu flash
 
 | Model | Jenis | Harga | Termasuk | Apa itu | Paling cocok untuk |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portabel | $300 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band dengan port 2.5G, sedikit lebih besar dari telapak tangan | Router utama untuk rumah tangga kecil (TV, streaming box, beberapa HP dan komputer), dan cukup kecil untuk masuk ransel |
+| **GL-MT3000** | Portabel | $250 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band dengan port 2.5G, sedikit lebih besar dari telapak tangan | Router utama untuk rumah tangga kecil (TV, streaming box, beberapa HP dan komputer), dan cukup kecil untuk masuk ransel |
 | GL-AXT1800 | Portabel | $300 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band, satu port WAN gigabit dan dua port LAN gigabit, kira-kira seukuran GL-MT3000 | Saat bepergian dan perlu menyambungkan dua perangkat sekaligus pakai kabel, misalnya laptop dan TV box, selain lewat Wi‑Fi |
 | GL-MT3600BE | Portabel | $350 | 2 tahun layanan Pribadi | Wi‑Fi 7 dual-band dengan dua port 2.5G, kira-kira seukuran GL-MT3000 | HP dan laptop yang sudah mendukung Wi‑Fi 7, dan ingin nirkabel lebih cepat dalam perangkat yang masih bisa dibawa |
 | GL-MT6000 | Desktop | $400 | 2 tahun layanan Pribadi | Dua port 2.5G plus empat port gigabit, antena eksternal, prosesor paling bertenaga | Rumah besar, banyak perangkat (selusin atau lebih), internet di atas 1 Gbps, 4K dan game konsol, atau kantor kecil. Diam di satu tempat sebagai satu-satunya router |
@@ -46,7 +46,7 @@ Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya
 
 - **Satu unit, dua peran.** Cukup bertenaga untuk jadi router utama rumah tangga kecil, cukup kecil untuk dibawa bepergian. Di antara keempatnya, hanya ini yang bisa keduanya.
 - **Tidak cepat ketinggalan zaman.** Wi‑Fi 6 dan port 2.5G masih menyisakan ruang di atas kecepatan kebanyakan internet rumah.
-- **Harganya paling murah.** $300 dengan layanan paket Pribadi 2 tahun, sama dengan GL-AXT1800, tapi dengan port 2.5G.
+- **Harganya paling murah.** $250 dengan layanan paket Pribadi 2 tahun, termurah dari keempatnya dan $50 lebih murah dari GL-AXT1800, tapi tetap dengan port 2.5G.
 - **Model ini yang paling kami kenal.** Unit uji kami sendiri model ini, firmware baru diperiksa di sini lebih dulu, dan [video tutorial flash](02-flash-firmware-yourself.md) memakainya. Kalau Anda menemui masalah, kami punya perangkat yang sama di meja untuk dibandingkan.
 
 Kapan tidak memilihnya: untuk unit portabel dengan dua port kabel, GL-AXT1800; untuk perangkat yang mendukung Wi‑Fi 7, GL-MT3600BE; untuk rumah besar, banyak perangkat, atau internet di atas 1 Gbps, langsung pilih GL-MT6000.
