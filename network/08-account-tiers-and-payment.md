@@ -93,7 +93,7 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 - Dalam 24 jam sebelum berakhir, Anda akan menerima email pengingat "Layanan akan segera berakhir".
 - Setelah berakhir, tidak ada cara koneksi yang bisa tersambung; perangkat di jaringan Privat akan offline dalam beberapa menit, dan kode QR Hiddify baru bisa dibuat ulang setelah perpanjangan.
-- Satu atau dua hari setelah berakhir, Anda akan menerima email "Layanan telah berakhir"; bagi yang memenuhi syarat, email itu berisi tombol klaim yang tidak perlu login dan memberi 30 menit; link-nya berlaku 7 hari dan hanya bisa diklik sekali.
+- Satu atau dua hari setelah berakhir, Anda akan menerima email pengingat "Layanan telah berakhir".
 - Layanan langsung pulih setelah perpanjangan; perangkat jaringan Privat masing-masing cukup diklik login sekali lagi, dan pengaturan exit tetap tersimpan.
 
 ## Tanya jawab
