@@ -8,7 +8,7 @@ Bahasa lain: [English](https://github.com/vipinus/guides-en) · [简体中文](h
 
 | Cara mendapatkannya | Yang Anda dapat |
 |---|---|
-| Klaim uji coba gratis setelah mendaftar | 4 jam dengan semua fitur, tanpa kartu kredit |
+| Klaim uji coba gratis setelah mendaftar | 30 menit dengan semua fitur, tanpa kartu kredit |
 | Undang teman yang mendaftar dan membayar untuk pertama kali | Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi, yang memakai 1 kredit per hari), langsung masuk ke saldo kredit, sekali per teman, tanpa batas jumlah teman |
 
 Situs web: <https://www.leotun.com/id?utm_source=github&utm_content=readme> · Hubungi kami: <https://www.leotun.com/id/contact?utm_source=github&utm_content=readme>

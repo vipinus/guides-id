@@ -17,7 +17,7 @@ Akun LeoTun punya tiga paket: Pribadi, Keluarga, dan Perusahaan. Bedanya hanya p
 
 ## Akun baru, dan memilih paket saat membeli
 
-- Akun yang baru didaftarkan otomatis memakai paket Pribadi, dan uji coba gratis diberikan menurut durasi paket Pribadi.
+- Akun yang baru didaftarkan otomatis memakai paket Pribadi.
 - Dialog perpanjangan punya pilihan "Paket" yang otomatis berisi paket Anda saat ini; kartu harga mana pun yang Anda klik di beranda, dialog akan memilihkan paket itu, dan Anda tetap bisa mengubahnya sesudahnya.
 - Kalau Anda memilih paket lain, dialog akan menampilkan "Setelah pembayaran selesai, akun Anda otomatis beralih ke paket tersebut, dan sisa masa aktif dikonversi senilai". Harga, diskon, dan jumlah kredit semuanya dihitung langsung untuk paket yang Anda pilih; angka yang Anda lihat itulah yang ditagih.
 - Anda juga bisa ganti paket tanpa membeli apa pun: klik nama pengguna Anda untuk berganti paket.
@@ -81,19 +81,19 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 
 | | Pribadi | Keluarga | Perusahaan |
 |---|---|---|---|
-| Uji coba gratis | 4 jam | 2 jam | 1 jam |
+| Uji coba gratis | 30 menit | 30 menit | 30 menit |
 | Untuk setiap teman undangan yang melakukan pembayaran pertama (Anda dan teman masing-masing dapat) | 15 kredit | 15 kredit | 15 kredit |
 | Layanan yang termasuk saat membeli router (model 24 bulan) | 24 bulan | 12 bulan | 6 bulan |
 
-- Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun. Akun baru memakai paket Pribadi, jadi biasanya Anda mendapat 4 jam.
+- Uji coba: klaim di beranda setelah mendaftar, tanpa kartu kredit; kode uji coba dikirim ke email Anda, lalu masukkan kode 6 digit itu untuk mengaktifkan; satu kali per akun; 30 menit di semua paket.
 - Undangan: setelah teman mendaftar lewat link referral Anda dan menyelesaikan pembayaran pertamanya, Anda dan teman masing-masing mendapat 15 kredit yang langsung masuk ke saldo kredit, sama di semua paket dan tanpa batas jumlah orang. Paket Pribadi memakai 1 kredit per hari, jadi 15 kredit kira-kira 15 hari dan bisa dipakai untuk memperpanjang per hari.
-- Uji coba gratis dan layanan bawaan pembelian router dikonversi berbanding terbalik dengan kelipatan harga, jadi nilainya sama di paket mana pun; hadiah undangan berupa kredit dan sama di ketiga paket.
+- Layanan bawaan pembelian router dikonversi berbanding terbalik dengan kelipatan harga, jadi nilainya sama di paket mana pun; uji coba gratis dan hadiah undangan (berupa kredit) sama di ketiga paket.
 
 ## Setelah masa aktif habis
 
 - Dalam 24 jam sebelum berakhir, Anda akan menerima email pengingat "Layanan akan segera berakhir".
 - Setelah berakhir, tidak ada cara koneksi yang bisa tersambung; perangkat di jaringan Privat akan offline dalam beberapa menit, dan kode QR Hiddify baru bisa dibuat ulang setelah perpanjangan.
-- Satu atau dua hari setelah berakhir, Anda akan menerima email "Layanan telah berakhir"; bagi yang memenuhi syarat, email itu berisi tombol klaim yang tidak perlu login dan memberi 4 / 2 / 1 jam sesuai paket Anda; link-nya berlaku 7 hari dan hanya bisa diklik sekali.
+- Satu atau dua hari setelah berakhir, Anda akan menerima email "Layanan telah berakhir"; bagi yang memenuhi syarat, email itu berisi tombol klaim yang tidak perlu login dan memberi 30 menit; link-nya berlaku 7 hari dan hanya bisa diklik sekali.
 - Layanan langsung pulih setelah perpanjangan; perangkat jaringan Privat masing-masing cukup diklik login sekali lagi, dan pengaturan exit tetap tersimpan.
 
 ## Tanya jawab
@@ -117,4 +117,4 @@ Di Tiongkok daratan, setelah Anda mengklik "Konfirmasi pembayaran", halaman lebi
 - [FAQ dan menghubungi dukungan](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08)
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; setiap teman undangan yang membayar memberi Anda berdua masing-masing 15 kredit (sekitar 15 hari paket Pribadi), promo tanpa batas waktu
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; setiap teman undangan yang membayar memberi Anda berdua masing-masing 15 kredit (sekitar 15 hari paket Pribadi), promo tanpa batas waktu

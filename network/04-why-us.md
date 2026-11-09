@@ -26,8 +26,8 @@ Sebaliknya, kalau Anda berada di luar Tiongkok dan perlu mengakses layanan di Ti
 
 - Kelebihan yang gratis: tidak bayar, dan cukup untuk sesekali mencari sesuatu.
 - Kekurangan yang gratis: bandwidth exit di Tiongkok daratan dibayar menurut pemakaian, jadi layanan gratis hanya bisa bertahan dengan menjejalkan pengguna, membatasi kecepatan, atau menjual data; yang berbentuk ekstensi browser hanya mem-proxy permintaan web, sedangkan video, aplikasi, dan DNS sistem tidak lewat situ; installer yang asal-usulnya tidak jelas sudah merupakan risiko tersendiri, lihat "Cara mengenali aplikasi VPN yang berisiko".
-- Yang kami lakukan: uji coba gratis 4 jam tanpa kartu kredit, untuk mengecek barangnya; bayar per hari (kredit) untuk pengguna sesekali; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), sumber waktu gratis jangka panjang.
-- Cara kami mengaturnya: waktu gratis datang dari uji coba 4 jam dan hadiah undangan; untuk pemakaian jangka panjang Anda membayar per bulan, per tahun, atau per hari.
+- Yang kami lakukan: uji coba gratis 30 menit tanpa kartu kredit, untuk mengecek barangnya; bayar per hari (kredit) untuk pengguna sesekali; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), sumber waktu gratis jangka panjang.
+- Cara kami mengaturnya: waktu gratis datang dari uji coba 30 menit dan hadiah undangan; untuk pemakaian jangka panjang Anda membayar per bulan, per tahun, atau per hari.
 
 ## Enam cara koneksi, satu akun
 
@@ -55,9 +55,9 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 
 **Kenapa tidak menyediakan ratusan node seperti penyedia jalur proxy?** Node yang lebih banyak tidak berarti lebih stabil. Di balik setiap wilayah kami ada beberapa mesin, dan saat tersambung sistem memilih yang paling sepi, jadi Anda tidak perlu menjalankan tes kecepatan dan memilih node sendiri; kalau sebuah alamat diblokir, alamat itu diganti otomatis, dan alamat di klien Anda tidak perlu diubah.
 
-**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,36 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 4 jam.
+**Bisakah harganya lebih murah lagi?** Paket Pribadi $5 per bulan, dan makin lama Anda membeli, makin besar diskonnya (hemat 5% → hemat 10% → hemat 20%); per hari dengan kredit sekitar $0,36 sehari; kalau teman yang Anda undang membayar, Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Mendaftar juga langsung mendapat uji coba gratis 30 menit.
 
-**Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 4 jam, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
+**Bagaimana cara membuktikan klaim Anda?** Ambil uji coba 30 menit, sambungkan ke wilayah Tiongkok di jam sibuk malam dan tonton satu episode di Tencent Video, sambungkan ke wilayah luar negeri dan buka YouTube, lalu cek lokasi terdaftar IP-nya dan halaman tes IPv6. Daftar periksanya ada di "Cara memilih VPN ke Tiongkok".
 
 
 ## Bacaan lanjutan
@@ -70,4 +70,4 @@ Setiap jaringan punya cara yang paling cocok, jadi Anda mendapat keenamnya: deng
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 4 jam; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
