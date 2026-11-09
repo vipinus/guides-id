@@ -21,11 +21,12 @@ Setiap operator keluar dari Tiongkok lewat jalan yang berbeda, dan memilih wilay
 
 **3. Router itu sendiri**
 Lalu lintas harus dienkripsi sebelum masuk terowongan, dan itu pekerjaan prosesor router. Antarmodel bedanya besar:
-- GL-MT300N-V2 (mini): port 100 Mbps. Cukup untuk 1080p di HP atau laptop, tapi tidak sepadan dengan internet yang cepat
 - GL-MT3000 (portabel): sanggup melayani rumah tangga kecil. Router pertama bagi kebanyakan orang
+- GL-AXT1800 (portabel): port gigabit. Untuk menyambungkan dua perangkat pakai kabel saat bepergian
+- GL-MT3600BE (portabel): Wi‑Fi 7 dan dua port 2.5G. Nirkabel tercepat yang bisa dibawa
 - GL-MT6000 (desktop): port 2.5G. Untuk banyak perangkat, 4K, dan konsol game
 
-Dengan internet cepat dan rumah yang ramai, pilih MT3000 atau MT6000, bukan versi mini.
+Dengan internet cepat dan rumah yang ramai, pilih MT3000 atau MT6000.
 
 **4. Beberapa meter terakhir di dalam rumah**
 Sambungkan TV dan komputer desktop dengan kabel kalau memungkinkan. Wi-Fi di gedung apartemen yang padat mengalami banyak gangguan, dan banyak keluhan "jalurnya lambat" ternyata masalahnya di dalam rumah.

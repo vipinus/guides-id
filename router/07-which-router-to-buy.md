@@ -26,30 +26,30 @@ Dengan cara mana pun, firmware memperbarui komponennya sendiri tanpa perlu flash
 
 | Model | Jenis | Harga | Termasuk | Apa itu | Paling cocok untuk |
 |---|---|---|---|---|---|
-| GL-MT300N-V2 | Mini | $200 | Layanan 12 bulan | Seukuran telapak tangan dan bertenaga USB (bisa jalan dengan power bank); hanya Wi‑Fi 2,4 GHz, port 100 Mbps | Satu orang yang bepergian: LAN hotel atau Wi‑Fi hotel, HP dan laptop untuk browsing dan menonton 1080p. Tidak cocok jadi router utama di rumah |
 | **GL-MT3000** | Portabel | $300 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band dengan port 2.5G, sedikit lebih besar dari telapak tangan | Router utama untuk rumah tangga kecil (TV, streaming box, beberapa HP dan komputer), dan cukup kecil untuk masuk ransel |
+| GL-AXT1800 | Portabel | $300 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band, satu port WAN gigabit dan dua port LAN gigabit, kira-kira seukuran GL-MT3000 | Saat bepergian dan perlu menyambungkan dua perangkat sekaligus pakai kabel, misalnya laptop dan TV box, selain lewat Wi‑Fi |
+| GL-MT3600BE | Portabel | $350 | 2 tahun layanan Pribadi | Wi‑Fi 7 dual-band dengan dua port 2.5G, kira-kira seukuran GL-MT3000 | HP dan laptop yang sudah mendukung Wi‑Fi 7, dan ingin nirkabel lebih cepat dalam perangkat yang masih bisa dibawa |
 | GL-MT6000 | Desktop | $400 | 2 tahun layanan Pribadi | Dua port 2.5G plus empat port gigabit, antena eksternal, prosesor paling bertenaga | Rumah besar, banyak perangkat (selusin atau lebih), internet di atas 1 Gbps, 4K dan game konsol, atau kantor kecil. Diam di satu tempat sebagai satu-satunya router |
-| GL-XE3000 | Mobile | $400 | 2 tahun layanan Pribadi | 5G/4G dan baterai bawaan; dengan kartu SIM jadi jaringan mandiri, dan juga bisa menerima kabel LAN | Tempat tanpa internet kabel: campervan, lokasi proyek, pameran, sewa jangka pendek; atau cadangan untuk jaringan rumah |
 
 Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya dan Perusahaan seperempatnya, nilainya sama. Gratis ongkos kirim ke seluruh dunia, biasanya 3–14 hari, bisa dikembalikan dalam 30 hari.
 
 ### Pilihan cepat menurut situasi
 
-- Bepergian sendiri, menginap di hotel, anggaran terbatas → GL-MT300N-V2
 - Apartemen atau rumah tangga kecil yang TV dan streaming box-nya butuh video Tiongkok atau luar negeri → GL-MT3000
 - Lebih sering di rumah, tapi sesekali ingin dibawa bepergian → GL-MT3000
+- Portabel, dan ada dua perangkat yang perlu disambung kabel sekaligus → GL-AXT1800
+- HP dan laptop baru dengan Wi‑Fi 7, dan ingin nirkabel tercepat dalam perangkat portabel → GL-MT3600BE
 - Rumah besar, banyak perangkat, internet di atas 1 Gbps, atau kantor bersama → GL-MT6000
-- Tidak ada internet kabel, atau Anda lebih sering di jalan → GL-XE3000
 - Mengatur satu untuk orang tua yang tidak paham teknis → GL-MT3000, beli yang sudah terpasang firmware: colokkan dan langsung jalan
 
 ## Kenapa GL-MT3000 jadi rekomendasi pertama kami
 
 - **Satu unit, dua peran.** Cukup bertenaga untuk jadi router utama rumah tangga kecil, cukup kecil untuk dibawa bepergian. Di antara keempatnya, hanya ini yang bisa keduanya.
-- **Tidak cepat ketinggalan zaman.** Wi‑Fi 6 dan port 2.5G masih menyisakan ruang di atas kecepatan kebanyakan internet rumah. Versi mini hanya punya Wi‑Fi 2,4 GHz dan port 100 Mbps, yang jadi titik sempit di rumah.
-- **Hitungan harganya masuk.** $300 dengan layanan paket Pribadi 2 tahun, dibandingkan $200 dengan 12 bulan untuk versi mini. Kalau layanan yang termasuk ikut dihitung, tambahan $100 itu membeli perangkat yang jelas lebih baik plus satu tahun lagi.
+- **Tidak cepat ketinggalan zaman.** Wi‑Fi 6 dan port 2.5G masih menyisakan ruang di atas kecepatan kebanyakan internet rumah.
+- **Harganya paling murah.** $300 dengan layanan paket Pribadi 2 tahun, sama dengan GL-AXT1800, tapi dengan port 2.5G.
 - **Model ini yang paling kami kenal.** Unit uji kami sendiri model ini, firmware baru diperiksa di sini lebih dulu, dan [video tutorial flash](02-flash-firmware-yourself.md) memakainya. Kalau Anda menemui masalah, kami punya perangkat yang sama di meja untuk dibandingkan.
 
-Kapan tidak memilihnya: untuk rumah besar, banyak perangkat, atau internet di atas 1 Gbps, langsung pilih GL-MT6000; tanpa internet kabel, GL-XE3000; kalau hanya untuk satu orang yang bepergian dan harga paling penting, GL-MT300N-V2 sudah cukup.
+Kapan tidak memilihnya: untuk unit portabel dengan dua port kabel, GL-AXT1800; untuk perangkat yang mendukung Wi‑Fi 7, GL-MT3600BE; untuk rumah besar, banyak perangkat, atau internet di atas 1 Gbps, langsung pilih GL-MT6000.
 
 ## Tiga masalah paling umum setelah mulai dipakai
 
