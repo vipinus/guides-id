@@ -31,7 +31,7 @@ Dengan cara mana pun, firmware memperbarui komponennya sendiri tanpa perlu flash
 | GL-MT3600BE | Portabel | $350 | 2 tahun layanan Pribadi | Wi‑Fi 7 dual-band dengan dua port 2.5G, kira-kira seukuran GL-MT3000 | HP dan laptop yang sudah mendukung Wi‑Fi 7, dan ingin nirkabel lebih cepat dalam perangkat yang masih bisa dibawa |
 | GL-MT6000 | Desktop | $400 | 2 tahun layanan Pribadi | Dua port 2.5G plus empat port gigabit, antena eksternal, prosesor paling bertenaga | Rumah besar, banyak perangkat (selusin atau lebih), internet di atas 1 Gbps, 4K dan game konsol, atau kantor kecil. Diam di satu tempat sebagai satu-satunya router |
 
-Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya dan Perusahaan seperempatnya, nilainya sama. Gratis ongkos kirim ke seluruh dunia, biasanya 3–14 hari, bisa dikembalikan dalam 30 hari.
+Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya dan Perusahaan seperempatnya, nilainya sama. Gratis ongkos kirim ke seluruh dunia, biasanya 3–14 hari. Garansi enam bulan; router tidak bisa di-refund.
 
 ### Pilihan cepat menurut situasi
 
