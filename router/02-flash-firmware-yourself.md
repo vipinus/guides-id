@@ -9,7 +9,7 @@ Panduan ini untuk Anda yang sudah punya router dengan model yang ada di daftar d
 ## Sebelum mulai
 
 - **Pastikan model Anda didukung.** Login, buka bagian **Router**, dan cari model Anda berdasarkan merek. Revisi hardware di belakang nama model (v1, v2, dan seterusnya) juga harus cocok.
-- **Akun Anda harus aktif.** Paket Pribadi, Keluarga, dan Perusahaan semuanya bisa memakai router.
+- **Akun Anda harus aktif.** Keenam paket berbayar bisa memakai router (uji coba gratis tidak bisa).
 - **Siapkan kabel LAN.** Port WAN router disambungkan ke modem atau router di atasnya. Saat flash, sebaiknya komputer juga disambungkan ke router dengan kabel; lebih stabil daripada Wi-Fi.
 - **Simpan salinan firmware bawaan.** Unduh firmware bawaan untuk model Anda dari situs pabrikannya, berjaga-jaga kalau suatu saat ingin kembali.
 
@@ -84,10 +84,10 @@ Untuk memastikan sudah tersambung, buka situs yang biasanya tidak bisa Anda akse
 
 ## Mengganti router lama dengan yang baru
 
-Satu akun hanya tertaut ke satu router pada satu waktu. Kalau akun Anda sebelumnya dipakai di router lain:
+Sesuai paketnya, satu akun bisa menautkan 1 sampai 6 router (Dasar 1, tiap paket di atasnya bertambah 1). Kalau belum penuh, router baru akan **tersambung otomatis** dan tertaut, tanpa perlu melepas tautan apa pun. Kalau sudah penuh dan Anda ingin memakai router baru:
 
-1. Login, buka bagian **Router**, dan di bawah judul "Build Firmware" Anda akan melihat model yang **Tertaut**, dengan tombol **Lepas tautan** di sampingnya.
-2. Klik Lepas tautan. Ini bisa dilakukan meski router lama rusak atau tidak ada di tangan.
+1. Login, buka bagian **Router**; di bawah judul "Build Firmware" ada daftar router yang tertaut (bertanda "x / y router"), satu baris per router dengan model dan akhiran alamat MAC-nya.
+2. Di ujung baris router yang tidak dipakai, klik **Lepas tautan**. Ini bisa dilakukan meski router lama rusak atau tidak ada di tangan.
 3. Di router baru tidak ada yang perlu dilakukan: router itu **tersambung otomatis** dan tertaut ke akun Anda.
 
 Kalau router baru sudah telanjur di-flash sebelum melepas tautan, tidak apa-apa. Router baru akan terus menunggu dan tersambung sendiri begitu tautannya dilepas.
@@ -104,7 +104,7 @@ Kalau setelah sekitar sepuluh menit masih belum jalan, periksa urutan berikut:
 
 1. **Apakah internet rumahnya sendiri jalan?** Dari perangkat yang terhubung ke router, buka situs biasa apa saja. Kalau gagal, masalahnya di kabel atau modem: pastikan kabel di port WAN terpasang dengan benar.
 2. **Apakah akunnya kedaluwarsa?** Login di situs dan cek tanggal berakhirnya. Setelah memperpanjang, tunggu beberapa menit.
-3. **Apakah akun masih tertaut ke router lama?** Di bagian Router, lihat model yang tertaut. Kalau bukan router ini, klik Lepas tautan.
+3. **Apakah jatah router akun sudah penuh?** Di bagian Router, lihat "x / y router". Kalau penuh, klik Lepas tautan di ujung baris router yang tidak dipakai. Kalau layar login router bilang nama pengguna atau kata sandi salah padahal kata sandinya benar, kemungkinan besar jatahnya sudah penuh.
 4. **Mulai ulang router sekali.** Cabut, tunggu sepuluh detik, pasang lagi, dan beri waktu dua sampai tiga menit.
 5. **Login manual.** Buka `http://192.168.11.1` dan login ke router dengan nama pengguna `root` dan kata sandi `www.anyfq.com`. Lalu buka **Services** → **VPN** (layanan → VPN), masukkan email dan kata sandi akun Anda, lalu simpan.
 
@@ -124,11 +124,11 @@ Sebagian besar router punya mode pemulihan: cabut daya, tahan tombol reset sambi
 
 **Bisakah kembali ke firmware bawaan?** Bisa. Pakai mode pemulihan yang dijelaskan di "Kalau flash-nya gagal" untuk mengunggah firmware bawaan.
 
-**Bisakah satu file firmware dipakai di dua router?** Tidak. Firmware dibuat per akun, dan satu akun hanya tertaut ke satu router pada satu waktu.
+**Bisakah satu akun memakai dua router?** Bisa di paket Standar ke atas (paket Dasar hanya bisa menautkan 1 router): di bagian Router, build firmware untuk model router kedua lalu flash; router itu tertaut otomatis saat pertama kali tersambung.
 
 **Kalau ganti akun, perlu build baru?** Tidak. Logout di halaman admin lalu login dengan akun baru.
 
 **Apakah pembaruan nanti perlu flash ulang?** Pembaruan rutin diambil router sendiri; Anda tidak perlu melakukan apa-apa. Hanya versi besar yang butuh build baru dan sekali flash file sysupgrade, dan situs akan mengumumkannya saat itu tiba.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), berlaku jangka panjang

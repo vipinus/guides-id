@@ -29,7 +29,7 @@ Bagian jaringan Privat memakai Tailscale (alat jaringan yang dibangun di atas Wi
 ## Masa aktif dan jumlah perangkat
 
 - Masa berlaku login sebuah perangkat mengikuti tanggal berakhir akun, dan perangkat offline dalam beberapa menit setelah masa aktif habis; setelah diperpanjang, cukup login sekali lagi. Tidak perlu memasang ulang.
-- Jumlah perangkat yang online bersamaan tergantung paket Anda (Pribadi 2, Keluarga 4, Perusahaan 8), dan jatahnya berbagi dengan cara koneksi lain; kalau melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
+- Jumlah perangkat yang online bersamaan tergantung paket Anda (Dasar 2, Standar 4, Pro 8, Elite 16, Perusahaan 32, Ultimate 64), dan jatahnya berbagi dengan cara koneksi lain; kalau melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
 
 ## Dua kasus yang lebih cocok memakai cara lain
 
@@ -37,4 +37,4 @@ Bagian jaringan Privat memakai Tailscale (alat jaringan yang dibangun di atas Wi
 - Di jaringan kampus / kantor yang membatasi UDP: WireGuard berjalan di atas UDP, jadi terpaksa lewat relay, yang sangat lambat; pindah ke AnyConnect.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-05) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-05) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-05) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-05) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

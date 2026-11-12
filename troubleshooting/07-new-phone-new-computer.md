@@ -30,7 +30,7 @@ File konfigurasi biasanya ada di drive sistem dan ikut hilang saat instal ulang.
 
 ### Ganti router
 
-Router berbeda dari perangkat lain: ada **penautan** antara router dan akun. Untuk beralih ke router baru, lepas tautan router lama dulu. Langkah ini Anda lakukan sendiri di situs: login, buka bagian Router, lalu klik "Lepas tautan" di baris "Tertaut · model · Lepas tautan"; router baru kemudian tersambung sendiri. Rinciannya ada di artikel terkait di Panduan router.
+Router berbeda dari perangkat lain: ada **penautan** antara router dan akun. Sesuai paketnya, satu akun bisa menautkan 1 sampai 6 router; kalau belum penuh, router baru langsung tersambung. Kalau sudah penuh, lepas tautan router lama dulu. Langkah ini Anda lakukan sendiri di situs: login, buka bagian Router, lalu di daftar router di bawah judul "Build Firmware" (bertanda "x / y router") klik "Lepas tautan" di ujung baris router lama; router baru kemudian tersambung sendiri. Rinciannya ada di artikel terkait di Panduan router.
 
 ## Salah paham yang sangat umum
 
@@ -45,7 +45,7 @@ Jadi cara bakunya selalu: **ambil salinan baru dari situs web**. Repotnya tidak 
 
 ## Kalau jatahnya penuh
 
-Jumlah perangkat yang boleh online bersamaan dalam satu akun tergantung paketnya: Pribadi 2, Keluarga 4, Perusahaan 8. Kalau perangkat lama masih tersambung saat Anda berganti, mungkin muncul pesan bahwa batasnya sudah tercapai. Ada tiga pilihan:
+Jumlah perangkat yang boleh online bersamaan dalam satu akun tergantung paketnya: Dasar 2, Standar 4, Pro 8, Elite 16, Perusahaan 32, Ultimate 64. Kalau perangkat lama masih tersambung saat Anda berganti, mungkin muncul pesan bahwa batasnya sudah tercapai. Ada tiga pilihan:
 
 - Logout atau tutup klien di perangkat lama
 - Tunggu sebentar; koneksi yang menganggur akan dilepas otomatis
@@ -54,4 +54,4 @@ Jumlah perangkat yang boleh online bersamaan dalam satu akun tergantung paketnya
 Di halaman web Anda bisa melihat berapa perangkat yang sedang online dan jenis masing-masing, dan dari situ mengetahui apakah ada yang lupa Anda matikan.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

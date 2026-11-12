@@ -9,7 +9,7 @@ Satu akun LeoTun punya enam cara koneksi: Privat (Tailscale), Cisco (AnyConnect)
 - Komputer dari kantor, tanpa hak administrator: Proxy Web. Anda hanya memasang satu ekstensi browser, tidak perlu hak administrator, dan tidak menyentuh pengaturan jaringan kantor.
 - iPhone, perangkat lama: Cisco. Tersambung dengan VPN bawaan sistem atau klien resmi, tidak perlu impor konfigurasi, dan kompatibilitasnya paling baik.
 - NAS (Synology, QNAP), server Linux: OpenVPN. Impor satu file .ovpn dan perangkat tersambung otomatis saat menyala; kebanyakan perangkat ini sudah punya klien bawaan.
-- TV, set-top box, konsol game, HP orang tua: Router. Apa pun yang tersambung ke Wi‑Fi lewat jalur, dan tidak ada yang perlu dipasang di perangkatnya. Ketiga paket akun bisa memakainya.
+- TV, set-top box, konsol game, HP orang tua: Router. Apa pun yang tersambung ke Wi‑Fi lewat jalur, dan tidak ada yang perlu dipasang di perangkatnya. Keenam paket berbayar bisa memakainya.
 - Banyak perangkat untuk seluruh keluarga atau kantor: Router, diatur sekali dan berlaku untuk semua; kalau Anda juga ingin menjangkau NAS di rumah dari luar, tambahkan Privat.
 
 ## Menurut lingkungan jaringan: Anda di jaringan apa
@@ -62,7 +62,7 @@ Kalau sebuah situs tidak terbuka dengan split routing, pindah sementara ke "Glob
 
 **Mana untuk game dan panggilan suara?** Hiddify, Privat, atau Router, dengan wilayah yang latensinya paling rendah. Proxy Web hanya menangani browser; game dan aplikasi panggilan tidak lewat situ.
 
-**Bisakah keenam cara dipakai bersamaan?** Di perangkat berbeda, bisa; semua cara dalam satu akun berbagi jatah perangkat online bersamaan (Pribadi 2 perangkat, Keluarga 4 perangkat, Perusahaan 8 perangkat). Jangan jalankan dua cara untuk seluruh perangkat sekaligus di perangkat yang sama (misalnya Privat dan Cisco), karena keduanya akan berebut pengaturan jaringan.
+**Bisakah keenam cara dipakai bersamaan?** Di perangkat berbeda, bisa; semua cara dalam satu akun berbagi jatah perangkat online bersamaan (Dasar 2 perangkat, Standar 4 perangkat, Pro 8 perangkat, Elite 16 perangkat, Perusahaan 32 perangkat, Ultimate 64 perangkat). Jangan jalankan dua cara untuk seluruh perangkat sekaligus di perangkat yang sama (misalnya Privat dan Cisco), karena keduanya akan berebut pengaturan jaringan.
 
 **Apakah harus memilih antara router atau klien?** Tidak. Pakai router di rumah dan nyalakan klien di HP saat keluar; masing-masing dihitung satu perangkat.
 
@@ -78,4 +78,4 @@ Kalau sebuah situs tidak terbuka dengan split routing, pindah sementara ke "Glob
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-02) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-02) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

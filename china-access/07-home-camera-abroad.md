@@ -24,7 +24,7 @@ Ini kasus yang paling umum dan juga yang paling sulit. NVR tidak punya IP publik
 2. Masukkan juga HP atau komputer Anda di luar negeri ke jaringan privat yang sama.
 3. Sejak itu perangkat di luar negeri bisa langsung menjangkau NVR lewat alamat LAN rumah, persis seperti saat Anda di rumah.
 
-Cara koneksi "Privat" LeoTun adalah jaringan privat semacam ini. Jumlah perangkat yang bisa dipasang dengan satu akun tidak dibatasi, dan jumlah yang online bersamaan mengikuti paket: Pribadi 2 perangkat, Keluarga 4 perangkat, Perusahaan 8 perangkat. Satu perangkat di rumah ditambah beberapa di luar negeri pas sekali dengan paket Keluarga.
+Cara koneksi "Privat" LeoTun adalah jaringan privat semacam ini. Jumlah perangkat yang bisa dipasang dengan satu akun tidak dibatasi, dan jumlah yang online bersamaan mengikuti paket: Dasar 2 perangkat, Standar 4 perangkat, Pro 8 perangkat, Elite 16 perangkat, Perusahaan 32 perangkat, Ultimate 64 perangkat. Satu perangkat di rumah ditambah beberapa di luar negeri pas sekali dengan paket Standar.
 
 ## Kasus ketiga: akunnya tidak cocok
 
@@ -35,4 +35,4 @@ Perangkat yang dibeli di Tiongkok tertaut ke akun Tiongkok, dan aplikasi dari to
 Gambar dari kamera rumah Anda seharusnya hanya mengalir antara perangkat Anda dan rumah Anda. Cara jaringan privat mengutamakan koneksi langsung antarperangkat (peer-to-peer) dan hanya meneruskan lewat relay kalau koneksi langsung tidak bisa dibuat, dan gambarnya tidak disimpan di server mana pun; sedangkan cara cloud vendor melewati server vendor. Dalam kedua kasus, jangan memakai "alat tunneling" yang asal-usulnya tidak jelas, karena itu sama saja dengan menyerahkan kamera rumah Anda ke orang lain.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

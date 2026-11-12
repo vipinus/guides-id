@@ -2,7 +2,7 @@
 
 > Versi situs web (lebih lengkap): https://www.leotun.com/id/guides/router?utm_source=github&utm_content=router-07
 
-Cara router menyelesaikan masalah "perangkatnya terlalu banyak, dan sebagian tidak bisa dipasangi klien": VPN diatur sekali di router, lalu TV, konsol game, speaker pintar, dan HP anggota keluarga yang sudah sepuh semuanya otomatis lewat router itu, tanpa memasang apa pun. Yang dibutuhkan hanya router yang bisa di-flash dan sepuluh menit untuk flash. **Akun Pribadi, Keluarga, dan Perusahaan semuanya bisa memakai router.**
+Cara router menyelesaikan masalah "perangkatnya terlalu banyak, dan sebagian tidak bisa dipasangi klien": VPN diatur sekali di router, lalu TV, konsol game, speaker pintar, dan HP anggota keluarga yang sudah sepuh semuanya otomatis lewat router itu, tanpa memasang apa pun. Yang dibutuhkan hanya router yang bisa di-flash dan sepuluh menit untuk flash. **Keenam paket berbayar bisa memakai router, dan tiap paket bisa menautkan 1 sampai 6 router.**
 
 ## Kapan perlu dan kapan tidak
 
@@ -26,12 +26,12 @@ Dengan cara mana pun, firmware memperbarui komponennya sendiri tanpa perlu flash
 
 | Model | Jenis | Harga | Termasuk | Apa itu | Paling cocok untuk |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portabel | $250 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band dengan port 2.5G, sedikit lebih besar dari telapak tangan | Router utama untuk rumah tangga kecil (TV, streaming box, beberapa HP dan komputer), dan cukup kecil untuk masuk ransel |
-| GL-AXT1800 | Portabel | $300 | 2 tahun layanan Pribadi | Wi‑Fi 6 dual-band, satu port WAN gigabit dan dua port LAN gigabit, kira-kira seukuran GL-MT3000 | Saat bepergian dan perlu menyambungkan dua perangkat sekaligus pakai kabel, misalnya laptop dan TV box, selain lewat Wi‑Fi |
-| GL-MT3600BE | Portabel | $350 | 2 tahun layanan Pribadi | Wi‑Fi 7 dual-band dengan dua port 2.5G, kira-kira seukuran GL-MT3000 | HP dan laptop yang sudah mendukung Wi‑Fi 7, dan ingin nirkabel lebih cepat dalam perangkat yang masih bisa dibawa |
-| GL-MT6000 | Desktop | $400 | 2 tahun layanan Pribadi | Dua port 2.5G plus empat port gigabit, antena eksternal, prosesor paling bertenaga | Rumah besar, banyak perangkat (selusin atau lebih), internet di atas 1 Gbps, 4K dan game konsol, atau kantor kecil. Diam di satu tempat sebagai satu-satunya router |
+| **GL-MT3000** | Portabel | $250 | 2 tahun layanan Dasar | Wi‑Fi 6 dual-band dengan port 2.5G, sedikit lebih besar dari telapak tangan | Router utama untuk rumah tangga kecil (TV, streaming box, beberapa HP dan komputer), dan cukup kecil untuk masuk ransel |
+| GL-AXT1800 | Portabel | $300 | 2 tahun layanan Dasar | Wi‑Fi 6 dual-band, satu port WAN gigabit dan dua port LAN gigabit, kira-kira seukuran GL-MT3000 | Saat bepergian dan perlu menyambungkan dua perangkat sekaligus pakai kabel, misalnya laptop dan TV box, selain lewat Wi‑Fi |
+| GL-MT3600BE | Portabel | $350 | 2 tahun layanan Dasar | Wi‑Fi 7 dual-band dengan dua port 2.5G, kira-kira seukuran GL-MT3000 | HP dan laptop yang sudah mendukung Wi‑Fi 7, dan ingin nirkabel lebih cepat dalam perangkat yang masih bisa dibawa |
+| GL-MT6000 | Desktop | $400 | 2 tahun layanan Dasar | Dua port 2.5G plus empat port gigabit, antena eksternal, prosesor paling bertenaga | Rumah besar, banyak perangkat (selusin atau lebih), internet di atas 1 Gbps, 4K dan game konsol, atau kantor kecil. Diam di satu tempat sebagai satu-satunya router |
 
-Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya dan Perusahaan seperempatnya, nilainya sama. Gratis ongkos kirim ke seluruh dunia, biasanya 3–14 hari. Garansi enam bulan; router tidak bisa di-refund.
+Bulan yang termasuk dihitung menurut paket Dasar; Standar mendapat 12 bulan, Pro 6 bulan, Elite 3 bulan, Perusahaan 1 bulan, dan Ultimate tidak mendapat bonus; nilainya sama. Gratis ongkos kirim ke seluruh dunia, biasanya 3–14 hari. Garansi enam bulan; router tidak bisa di-refund.
 
 ### Pilihan cepat menurut situasi
 
@@ -46,7 +46,7 @@ Bulan yang termasuk dihitung menurut paket Pribadi; Keluarga mendapat separuhnya
 
 - **Satu unit, dua peran.** Cukup bertenaga untuk jadi router utama rumah tangga kecil, cukup kecil untuk dibawa bepergian. Di antara keempatnya, hanya ini yang bisa keduanya.
 - **Tidak cepat ketinggalan zaman.** Wi‑Fi 6 dan port 2.5G masih menyisakan ruang di atas kecepatan kebanyakan internet rumah.
-- **Harganya paling murah.** $250 dengan layanan paket Pribadi 2 tahun, termurah dari keempatnya dan $50 lebih murah dari GL-AXT1800, tapi tetap dengan port 2.5G.
+- **Harganya paling murah.** $250 dengan layanan paket Dasar 2 tahun, termurah dari keempatnya dan $50 lebih murah dari GL-AXT1800, tapi tetap dengan port 2.5G.
 - **Model ini yang paling kami kenal.** Unit uji kami sendiri model ini, firmware baru diperiksa di sini lebih dulu, dan [video tutorial flash](02-flash-firmware-yourself.md) memakainya. Kalau Anda menemui masalah, kami punya perangkat yang sama di meja untuk dibandingkan.
 
 Kapan tidak memilihnya: untuk unit portabel dengan dua port kabel, GL-AXT1800; untuk perangkat yang mendukung Wi‑Fi 7, GL-MT3600BE; untuk rumah besar, banyak perangkat, atau internet di atas 1 Gbps, langsung pilih GL-MT6000.
@@ -61,11 +61,11 @@ Kapan tidak memilihnya: untuk unit portabel dengan dua port kabel, GL-AXT1800; u
 
 ## Tanya jawab
 
-**Apakah router dihitung satu perangkat?** Router memakai satu jatah di akun (menurut paket: Pribadi 2, Keluarga 4, Perusahaan 8 perangkat online bersamaan), dan perangkat di belakangnya tidak dihitung terpisah.
+**Apakah router dihitung satu perangkat?** Tiap router memakai satu jatah di akun (menurut paket: Dasar 2, Standar 4, Pro 8, Elite 16, Perusahaan 32, Ultimate 64 perangkat online bersamaan), dan perangkat di belakangnya tidak dihitung terpisah.
 
 **Bisakah dipakai menonton video dari Tiongkok saat di luar negeri?** Bisa, pilih wilayah Tiongkok untuk jalurnya. Router memasukkan seluruh jaringan lokal ke VPN, dan IPv6 serta DNS perangkat tidak bisa keluar sendiri, jadi pesan "pembatasan hak cipta" lebih jarang muncul dibandingkan HP yang tersambung sendiri. Lihat [06](06-unlock-chinese-video-with-router.md).
 
 **Apakah firmware-nya punya pintu belakang?** Firmware dikompilasi dari OpenWrt, hanya ditambah komponen yang menyambung ke VPN dan aturan split routing; VPN hanya mencatat durasi koneksi dan total kuota untuk penagihan, dan tidak mencatat apa yang Anda kunjungi.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-07) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-07) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

@@ -29,9 +29,9 @@ Kode verifikasi SMS yang tidak pernah sampai tidak ada hubungannya dengan jalur;
 
 ## Tanya jawab
 
-**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Isi kredit dan bayar per hari: paket Pribadi memakai 1 kredit per hari, sekitar 0,36 dolar AS per hari, sangat pas untuk beberapa hari. Coba dulu dengan uji coba gratis 30 menit.
+**Perjalanannya hanya beberapa hari. Perlu beli sebulan?** Tidak. Isi kredit dan bayar per hari: paket Dasar memakai 1 kredit per hari, sekitar 0,36 dolar AS per hari, sangat pas untuk beberapa hari. Coba dulu dengan uji coba gratis 30 menit.
 
-**Bisakah HP dan laptop tersambung bersamaan?** Bisa. Tergantung paketnya, satu akun bisa online di 2 / 4 / 8 perangkat bersamaan (Pribadi / Keluarga / Perusahaan), dan paket Pribadi pas untuk satu HP ditambah satu laptop.
+**Bisakah HP dan laptop tersambung bersamaan?** Bisa. Tergantung paketnya, satu akun bisa online di 2 sampai 64 perangkat bersamaan (Dasar 2, Standar 4, tiap paket di atasnya dua kali lipat), dan paket Dasar pas untuk satu HP ditambah satu laptop.
 
 **Kenapa untuk bepergian yang direkomendasikan Cisco, bukan Hiddify?** Di jaringan yang belum dikenal, kekhawatiran terbesar adalah UDP yang dibatasi. Cisco berjalan di atas TLS, sama seperti membuka situs HTTPS, dan bisa lewat hampir di mana saja; Hiddify lebih cepat di jaringan dengan packet loss tinggi, tetapi tidak jalan kalau UDP dibatasi. Memasang keduanya dan berpindah kalau salah satu tidak jalan adalah cara paling andal.
 
@@ -47,4 +47,4 @@ Kode verifikasi SMS yang tidak pernah sampai tidak ada hubungannya dengan jalur;
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-12) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-12) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-12) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-12) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

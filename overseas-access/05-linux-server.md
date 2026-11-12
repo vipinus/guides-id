@@ -34,7 +34,7 @@ Di cara ini, memang tidak ada koneksi yang bisa putus; tidak butuh root dan tida
 
 ## Yang perlu diketahui
 
-- Satu mesin Linux dihitung satu perangkat dan berbagi jatah online bersamaan dengan perangkat Anda yang lain (Pribadi 2 perangkat, Keluarga 4 perangkat, Perusahaan 8 perangkat); Proxy Web di cara kedua dihitung per koneksi dan juga termasuk.
+- Satu mesin Linux dihitung satu perangkat dan berbagi jatah online bersamaan dengan perangkat Anda yang lain (Dasar 2 perangkat, Standar 4 perangkat, Pro 8 perangkat, Elite 16 perangkat, Perusahaan 32 perangkat, Ultimate 64 perangkat); Proxy Web di cara kedua dihitung per koneksi dan juga termasuk.
 - File konfigurasi dan file kata sandi sama nilainya dengan akun Anda; jangan commit ke repositori git atau memasukkannya ke image.
 - Setelah Anda mengganti kata sandi, konfigurasi lama langsung tidak berlaku; ini memang mekanisme pencabutannya. Cukup perbarui file kata sandi.
 - Saat menjalankan jalur di server cloud, patuhi ketentuan penyedia cloud; jalur hanya mencatat durasi koneksi dan total lalu lintas.
@@ -59,4 +59,4 @@ Di cara ini, memang tidak ada koneksi yang bisa putus; tidak butuh root dan tida
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=overseas-access-05) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=overseas-access-05) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=overseas-access-05) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=overseas-access-05) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), berlaku jangka panjang

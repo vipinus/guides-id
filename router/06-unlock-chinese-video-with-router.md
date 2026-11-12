@@ -11,7 +11,7 @@
 | Item | Keterangan |
 |---|---|
 | Router yang didukung | Yang sudah terpasang firmware langsung bisa dipakai; kalau Anda flash sendiri, lihat [Cara flash firmware](02-flash-firmware-yourself.md) |
-| Akun | Akun Pribadi, Keluarga, dan Perusahaan semuanya mendukung fitur router. Setelah mendaftar, klaim dulu uji coba gratis 30 menit untuk mencoba seluruh prosesnya |
+| Akun | Keenam paket berbayar mendukung router (uji coba gratis tidak termasuk router); bisa langsung dipakai setelah membeli paket mana pun |
 | Jaringan di atasnya | Modem atau router yang sudah ada di rumah; router baru dipasang di belakangnya |
 
 ## Selesai dalam lima langkah
@@ -37,4 +37,4 @@ Domain video di daftar split routing dikelola di repositori publik: <https://git
 - **Seluruh rumah jadi lambat dengan router lama**: CPU-nya tidak sanggup mengolah lalu lintas terenkripsi; ganti ke model yang performanya lebih baik, lihat [Memulai dengan router yang sudah terpasang firmware](01-plug-and-play-router.md).
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-06) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-06) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-06) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-06) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

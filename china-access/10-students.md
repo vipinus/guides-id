@@ -48,7 +48,7 @@ Saat tersambung dari dalam Tiongkok, alamat AnyConnect dan Hiddify berganti otom
 
 **Apakah memakai VPN ke Tiongkok memengaruhi akun jaringan kampus?** Tidak. Jalur hanya mengirim lalu lintas Anda ke exit di Tiongkok, dan yang dilihat jaringan kampus hanyalah satu koneksi terenkripsi. Aturan pemakaian kebanyakan kampus hanya melarang unduhan yang melanggar hak cipta dan serangan, dan akses pribadi ke layanan di negara asal tidak termasuk; kalau ragu, baca kebijakan pemakaian jaringan (acceptable use policy) kampus Anda.
 
-**Bisakah satu akun dipakai bersama teman sekamar?** Tergantung paketnya, satu akun bisa punya 2 (Pribadi), 4 (Keluarga), atau 8 (Perusahaan) perangkat online bersamaan, dan berbagi dengan keluarga atau teman sekamar masih dalam batas aturan. Tetapi untuk urusan seperti internet banking, lebih aman kalau masing-masing memakai akun sendiri, supaya beberapa orang tidak sering berganti di jalur yang sama dan memicu manajemen risiko.
+**Bisakah satu akun dipakai bersama teman sekamar?** Tergantung paketnya, satu akun bisa punya 2 (Dasar), 4 (Standar), 8 (Pro), sampai 64 (Ultimate) perangkat online bersamaan, dan berbagi dengan keluarga atau teman sekamar masih dalam batas aturan. Tetapi untuk urusan seperti internet banking, lebih aman kalau masing-masing memakai akun sendiri, supaya beberapa orang tidak sering berganti di jalur yang sama dan memicu manajemen risiko.
 
 **Kenapa Hiddify lambat di asrama sementara AnyConnect normal?** Kemungkinan besar jaringan kampus membatasi UDP. Protokol hysteria2 di Hiddify berbasis UDP, dan kalau diperlambat, gejalanya lambat atau putus-putus; AnyConnect berjalan di atas TLS, sama seperti membuka situs HTTPS, jadi tidak terpengaruh.
 
@@ -66,4 +66,4 @@ Saat tersambung dari dalam Tiongkok, alamat AnyConnect dan Hiddify berganti otom
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

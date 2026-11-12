@@ -24,11 +24,11 @@ Tes sederhana: kalau Anda akan kesal saat koneksinya putus, sudah saatnya membay
 
 ## Berapa yang perlu dikeluarkan
 
-Paket Pribadi LeoTun 5 dolar AS sebulan dan sudah termasuk 24 wilayah, 2 perangkat online bersamaan, dan semua cara koneksi (AnyConnect / OpenVPN / Hiddify / Proxy Web), serta bisa dipakai dengan router. Paket Keluarga dan Perusahaan masing-masing 2 kali dan 4 kali harga paket Pribadi. Wilayah, jalur, dan cara koneksi sama persis di ketiga paket, dan satu-satunya bedanya jumlah perangkat online bersamaan (4 dan 8).
+Paket Dasar LeoTun 5 dolar AS sebulan dan sudah termasuk 24 wilayah, 2 perangkat online bersamaan, dan semua cara koneksi (AnyConnect / OpenVPN / Hiddify / Proxy Web), serta bisa dipakai dengan router. Paket di atasnya, Standar, Pro, Elite, Perusahaan, dan Ultimate, masing-masing dua kali lipat harga paket di bawahnya. Wilayah, jalur, dan cara koneksi sama persis di semua paket; bedanya hanya jumlah perangkat online bersamaan (4 sampai 64) dan jumlah router yang bisa ditautkan.
 
-Kalau tidak ingin membeli per bulan, ada dua cara: klaim dulu uji coba gratis 30 menit (tanpa kartu kredit, sekali per akun) dan coba sekali di jam sibuk malam; atau bayar per hari. Setelah mengisi kredit, paket Pribadi memakai 1 kredit sehari, dan 28 kredit seharga 10 dolar AS, jadi sekitar 0,36 dolar AS sehari; membeli beberapa hari saja sebelum perjalanan ke Tiongkok sangat pas.
+Kalau tidak ingin membeli per bulan, ada dua cara: klaim dulu uji coba gratis 30 menit (tanpa kartu kredit, sekali per akun) dan coba sekali di jam sibuk malam; atau bayar per hari. Setelah mengisi kredit, paket Dasar memakai 1 kredit sehari, dan 28 kredit seharga 10 dolar AS, jadi sekitar 0,36 dolar AS sehari; membeli beberapa hari saja sebelum perjalanan ke Tiongkok sangat pas.
 
-Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), tanpa batas jumlah orang. Ini sumber waktu gratis jangka panjang.
+Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), tanpa batas jumlah orang. Ini sumber waktu gratis jangka panjang.
 
 ## Cara mengecek barangnya sebelum membayar
 
@@ -60,4 +60,4 @@ Kalau teman yang Anda undang mendaftar dan membayar untuk pertama kali, Anda dan
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=china-access-11) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=china-access-11) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

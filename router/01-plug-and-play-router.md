@@ -4,7 +4,7 @@
 
 1. **Colokkan listrik dan kabel jaringan**: sambungkan port WAN router ke modem atau router utama yang sudah ada, lalu tunggu sampai lampu indikatornya stabil, sekitar satu menit.
 2. **Sambungkan ke Wi-Fi**: nama dan kata sandi Wi-Fi bawaan tercetak di kartu petunjuk (bawaan pabrik keduanya adalah nama domain situs). Setelah tersambung, buka browser dan masuk ke alamat admin `http://192.168.11.1`.
-3. **Login ke akun Anda**: di halaman admin, masukkan email akun dan kata sandi lalu simpan (akun Pribadi, Keluarga, dan Perusahaan semuanya bisa memakai router). Sejak itu, setiap perangkat yang tersambung ke Wi-Fi ini otomatis lewat VPN.
+3. **Login ke akun Anda**: di halaman admin, masukkan email akun dan kata sandi lalu simpan (keenam paket berbayar bisa memakai router). Sejak itu, setiap perangkat yang tersambung ke Wi-Fi ini otomatis lewat VPN.
 
 ## Ganti kata sandi bawaan
 
@@ -17,7 +17,7 @@ Bawaannya adalah split routing: domain Tiongkok yang ada di daftar lewat VPN, da
 ## Tanya jawab
 
 - **Lampu indikator normal tapi perangkat yang tersambung tidak dapat internet**: cek status akun di halaman admin; akun yang kedaluwarsa atau kata sandi yang salah sama-sama akan terlihat di sana.
-- **Anda ingin beralih ke router lain**: lepas tautan router lama di situs web dulu; lihat [Penautan MAC dan mengganti router](05-mac-binding-and-replacing.md).
+- **Anda ingin beralih ke router lain**: kalau jatah paket belum penuh, router baru langsung tersambung; kalau sudah penuh, lepas tautan router lama di situs web dulu; lihat [Penautan MAC dan mengganti router](05-mac-binding-and-replacing.md).
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-01) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-01) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-01) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-01) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

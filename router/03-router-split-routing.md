@@ -41,9 +41,9 @@ Arah menjangkau Tiongkok dari luar negeri tidak berubah.
 - **Printer atau NAS tidak bisa dijangkau setelah tersambung**: artinya alamat jaringan lokal ikut dikirim keluar. Periksa apakah aturan split routing mengecualikan rentang privat seperti 192.168.x.x.
 - **Performa router** menentukan batas atasnya. CPU router lama kewalahan mengolah lalu lintas terenkripsi, yang terasa sebagai seluruh rumah melambat. Dalam kasus itu, masalahnya bukan di jalur VPN.
 
-## Satu akun, satu router
+## Router ditautkan ke akun
 
-Kebanyakan layanan menautkan router ke akun (lewat alamat MAC). Satu akun ditautkan ke satu router, dan saat ganti router Anda harus melepas tautannya dulu. Dengan begitu akun tetap milik Anda seorang.
+Kebanyakan layanan menautkan router ke akun (lewat alamat MAC). Di LeoTun, sesuai paketnya satu akun bisa menautkan 1 sampai 6 router; kalau sudah penuh, lepas tautan dulu saat ganti router. Dengan begitu akun tetap milik Anda seorang.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-03) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-03) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-03) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-03) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

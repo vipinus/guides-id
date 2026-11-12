@@ -9,7 +9,7 @@ Bahasa lain: [English](https://github.com/vipinus/guides-en) · [简体中文](h
 | Cara mendapatkannya | Yang Anda dapat |
 |---|---|
 | Klaim uji coba gratis setelah mendaftar | 30 menit dengan semua fitur, tanpa kartu kredit |
-| Undang teman yang mendaftar dan membayar untuk pertama kali | Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi, yang memakai 1 kredit per hari), langsung masuk ke saldo kredit, sekali per teman, tanpa batas jumlah teman |
+| Undang teman yang mendaftar dan membayar untuk pertama kali | Anda dan teman masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar, yang memakai 1 kredit per hari), langsung masuk ke saldo kredit, sekali per teman, tanpa batas jumlah teman |
 
 Situs web: <https://www.leotun.com/id?utm_source=github&utm_content=readme> · Hubungi kami: <https://www.leotun.com/id/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Penjelasan yang jelas tentang **prinsip** di balik akses lintas negara, **cara m
 | [05 · Cara mengenali aplikasi VPN yang berisiko](network/05-risky-vpn-apps.md) |
 | [06 · Kenapa kadang cepat, kadang lambat](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Masalah apa yang diselesaikan jalur, dan mana yang butuh solusi lain](network/07-when-you-do-not-need-us.md) |
-| [08 · Memilih di antara tiga paket akun, perpanjangan, dan pembayaran](network/08-account-tiers-and-payment.md) |
+| [08 · Memilih paket akun, perpanjangan, dan pembayaran](network/08-account-tiers-and-payment.md) |
 | [09 · Kalau jatah perangkat tidak cukup](network/09-not-enough-devices.md) |
 
 ### [Panduan klien · Instalasi dan pengaturan](client/)

@@ -16,7 +16,7 @@ Cocokkan error Anda dengan tabel di bawah. Cara mengimpor dari awal ada di [Cara
 
 ## Apakah perlu impor ulang setelah memperpanjang, ganti paket, atau ganti kata sandi
 
-- **Memperpanjang atau ganti paket (Pribadi / Keluarga / Perusahaan)**: Tidak. Konfigurasi yang ada tetap jalan.
+- **Memperpanjang atau ganti paket (Dasar / Standar / Pro / Elite / Perusahaan / Ultimate)**: Tidak. Konfigurasi yang ada tetap jalan.
 - **Ganti kata sandi**: Konfigurasi lama langsung tidak berlaku; pindai ulang kode QR. Kalau HP hilang atau link-nya bocor, pakai cara ini untuk mencabut akses.
 - **Akun kedaluwarsa**: Konfigurasi mengembalikan 401. Setelah memperpanjang, tidak perlu konfigurasi baru; cukup sambungkan lagi.
 - **Diimpor sebelum September 2026**: Aturan yang menolak IPv6 belum ada, jadi menonton video Tiongkok dari luar negeri akan memunculkan pemberitahuan pembatasan hak cipta. Hapus lalu impor ulang; lihat [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Cocokkan error Anda dengan tabel di bawah. Cara mengimpor dari awal ada di [Cara
 Sampaikan tiga hal ke dukungan: nama dan versi klien, wilayah, dan teks error persisnya atau tangkapan layarnya.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-04) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-04) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), berlaku jangka panjang

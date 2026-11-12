@@ -17,7 +17,7 @@ Agen dukungan AI "SpongeBob" menjawab 24 jam sehari di tiga grup: Telegram, QQ, 
 |---|---|
 | Tidak bisa tersambung | Windows 11, Cisco tersambung ke Jepang, terus berputar lalu akhirnya bilang koneksi timeout, sama juga dengan Korea, internet rumah pakai China Unicom |
 | Lambat sekali | iPhone pakai Hiddify, pilih Singapura, halaman web terbuka tapi video terus buffering, terutama terasa setelah jam 9 malam |
-| Caranya bagaimana | Saya baru beli paket Keluarga dan ingin TV Xiaomi di rumah juga bisa memakainya. Ada caranya? |
+| Caranya bagaimana | Saya baru beli paket Standar dan ingin TV Xiaomi di rumah juga bisa memakainya. Ada caranya? |
 | Menanyakan perpanjangan, ganti wilayah, dan router dalam satu pesan | Tanyakan satu hal sekali, dan tanyakan yang berikutnya setelah yang pertama beres |
 
 ## Cara membuatnya membalas di masing-masing dari tiga grup
@@ -51,4 +51,4 @@ Alamat koneksi VPN diambil dari situs web: setelah login, klik bendera wilayah d
 - Dukungan tidak akan pernah mengirim pesan pribadi untuk meminta kata sandi, kode verifikasi, atau pembayaran, dan tidak akan pernah atas inisiatif sendiri meminta Anda memasang software remote control.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=troubleshooting-10) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=troubleshooting-10) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

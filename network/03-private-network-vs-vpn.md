@@ -26,9 +26,9 @@ Bagian Privat memakai Tailscale: alat jaringan berbasis WireGuard. LeoTun menjal
 
 ## Masa aktif dan jumlah perangkat
 
-Masa berlaku login sebuah perangkat mengikuti tanggal berakhir akun; perangkat offline dalam beberapa menit setelah masa aktif habis, dan Anda cukup login lagi setelah memperpanjang. Jumlah perangkat yang online bersamaan tergantung paket (Pribadi 2 perangkat, Keluarga 4 perangkat, Perusahaan 8 perangkat), dan jatahnya dibagi dengan cara koneksi lain; kalau jumlah yang online bersamaan melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
+Masa berlaku login sebuah perangkat mengikuti tanggal berakhir akun; perangkat offline dalam beberapa menit setelah masa aktif habis, dan Anda cukup login lagi setelah memperpanjang. Jumlah perangkat yang online bersamaan tergantung paket (Dasar 2 perangkat, Standar 4 perangkat, Pro 8 perangkat, Elite 16 perangkat, Perusahaan 32 perangkat, Ultimate 64 perangkat), dan jatahnya dibagi dengan cara koneksi lain; kalau jumlah yang online bersamaan melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
 
 Langkah instalasi dan login ada di [Panduan klien 05](../client/05-tailscale-private-network.md).
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-03) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-03) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=network-03) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=network-03) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

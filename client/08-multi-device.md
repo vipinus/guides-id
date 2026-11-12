@@ -11,9 +11,9 @@ Bagi yang punya banyak perangkat, bagian paling merepotkan adalah mengatur satu 
 
 ## Cara menghitung perangkat yang online bersamaan
 
-Satu akun boleh dipasang di berapa pun perangkat; yang dibatasi hanya jumlah yang online pada saat yang sama: Pribadi 2, Keluarga 4, Perusahaan 8, berbagi satu jatah dengan Cisco, Hiddify, dan cara lainnya. Kalau melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
+Satu akun boleh dipasang di berapa pun perangkat; yang dibatasi hanya jumlah yang online pada saat yang sama: Dasar 2, Standar 4, Pro 8, Elite 16, Perusahaan 32, Ultimate 64, berbagi satu jatah dengan Cisco, Hiddify, dan cara lainnya. Kalau melebihi batas paket, Anda bisa menaikkan paket akun sementara (sisa masa aktif dikonversi senilai menurut harga) lalu kembali lagi setelah selesai.
 
-Router dihitung satu perangkat, dan perangkat di belakangnya tidak dihitung. Satu router atau NAS di rumah ditambah HP dan laptop yang Anda bawa biasanya sudah cukup.
+Tiap router dihitung satu perangkat, dan perangkat di belakangnya tidak dihitung. Satu router atau NAS di rumah ditambah HP dan laptop yang Anda bawa biasanya sudah cukup.
 
 ## Perangkat bisa saling mengakses
 
@@ -49,4 +49,4 @@ Router dihitung satu perangkat, dan perangkat di belakangnya tidak dihitung. Sat
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=client-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=client-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku

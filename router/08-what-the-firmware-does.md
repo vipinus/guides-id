@@ -39,11 +39,11 @@ Hanya pembaruan versi besar seluruh firmware yang butuh flash file sysupgrade. I
 
 ## Tanya jawab
 
-**Bisakah paket Pribadi memakai router?** Bisa. Pribadi, Keluarga, dan Perusahaan semuanya mendukung router, tanpa perlu ganti paket.
+**Bisakah paket Dasar memakai router?** Bisa. Keenam paket berbayar mendukung router tanpa batas kecepatan, tanpa perlu ganti paket; paket Dasar bisa menautkan 1 router, naikkan paket kalau ingin menautkan lebih banyak.
 
 **Berapa jatah perangkat yang dipakai router?** Satu; perangkat di belakangnya tidak dihitung.
 
 **Apakah firmware-nya punya pintu belakang?** Firmware dikompilasi dari OpenWrt, hanya ditambah komponen yang tersambung ke VPN dan aturan split routing; VPN hanya mencatat durasi koneksi dan total lalu lintas untuk penagihan.
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), berlaku jangka panjang
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=router-08) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=router-08) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), berlaku jangka panjang

@@ -13,7 +13,7 @@ Penjelasan yang jelas tentang **prinsip** di balik akses lintas negara, **cara m
 | [05 · Cara mengenali aplikasi VPN yang berisiko](05-risky-vpn-apps.md) |
 | [06 · Kenapa kadang cepat, kadang lambat](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Masalah apa yang diselesaikan jalur, dan mana yang butuh solusi lain](07-when-you-do-not-need-us.md) |
-| [08 · Memilih di antara tiga paket akun, perpanjangan, dan pembayaran](08-account-tiers-and-payment.md) |
+| [08 · Memilih paket akun, perpanjangan, dan pembayaran](08-account-tiers-and-payment.md) |
 | [09 · Kalau jatah perangkat tidak cukup](09-not-enough-devices.md) |
 
 [← Kembali ke indeks](../README.md)

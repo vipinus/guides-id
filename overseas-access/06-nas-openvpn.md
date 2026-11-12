@@ -31,7 +31,7 @@ Mengakses NAS dari luar (membuka folder bersama saat dinas, melihat kamera): pak
 
 - File konfigurasi membawa akun Anda, dan kolom kata sandi di NAS tidak berlaku lagi setelah Anda mengganti kata sandi: unduh ulang file .ovpn dan ganti, atau cukup ubah kata sandinya di profil VPN.
 - Saat akun kedaluwarsa, NAS terputus; setelah perpanjangan, NAS tersambung ulang otomatis, dan konfigurasinya tidak perlu diganti.
-- NAS dihitung satu perangkat dan berbagi jatah online bersamaan dengan perangkat Anda yang lain (Pribadi 2 perangkat, Keluarga 4 perangkat, Perusahaan 8 perangkat).
+- NAS dihitung satu perangkat dan berbagi jatah online bersamaan dengan perangkat Anda yang lain (Dasar 2 perangkat, Standar 4 perangkat, Pro 8 perangkat, Elite 16 perangkat, Perusahaan 32 perangkat, Ultimate 64 perangkat).
 - Jalurnya berjalan di atas UDP; NAS di internet rumah hampir tidak pernah terkena pembatasan UDP.
 
 ## Tanya jawab
@@ -54,4 +54,4 @@ Mengakses NAS dari luar (membuka folder bersama saat dinas, melihat kamera): pak
 Versi situs web artikel ini (tersedia juga dalam bahasa Mandarin tradisional dan Inggris): https://www.leotun.com/id/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=overseas-access-06) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=overseas-access-06) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Pribadi), promo yang terus berlaku
+Disusun oleh tim [LeoTun](https://www.leotun.com/id?utm_source=github&utm_content=overseas-access-06) · Ada pertanyaan? Lihat [halaman kontak](https://www.leotun.com/id/contact?utm_source=github&utm_content=overseas-access-06) (grup, email, dan dukungan semuanya ada di sana) · Daftar dan dapatkan uji coba gratis 30 menit; undang teman yang membayar dan Anda berdua masing-masing mendapat 15 kredit (sekitar 15 hari paket Dasar), promo yang terus berlaku
